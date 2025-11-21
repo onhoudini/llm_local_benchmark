@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+
+# Modelos binários
+models/*.gguf
+
+# Resultados de benchmarks
+results/
+
+# Logs temporários
+*.log
+*.time
