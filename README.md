@@ -1,4 +1,4 @@
-# Ollama Benchmark Test
+# LLM Local Benchmark Test
 
 Projeto para benchmarking de modelos no Ollama usando um mini dataset de perguntas.
 

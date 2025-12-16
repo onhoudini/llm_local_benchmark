@@ -6,7 +6,3 @@ models/*.gguf
 
 # Resultados de benchmarks
 results/
-
-# Logs temporários
-*.log
-*.time
