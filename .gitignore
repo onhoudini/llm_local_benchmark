@@ -5,4 +5,3 @@ venv/
 models/*.gguf
 
 # Resultados de benchmarks
-results/

@@ -1,0 +1,10 @@
+Modelo: mistral_v0.3
+Pergunta ID: 87
+Pergunta: name of the bird in the lion king
+
+Resposta:
+The bird in "The Lion King" is named Zazu. He is a red-billed hornbill and serves as Simba's royal advisor and Rafiki's assistant.
+
+Real time: 14.92s
+GPU Load (max): 30.0%
+GPU Memory (max): 190464 KB

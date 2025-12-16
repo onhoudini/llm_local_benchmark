@@ -1,0 +1,34 @@
+Modelo: mistral_v0.1
+Pergunta ID: 80
+Pergunta: where do we find globular clusters in the galaxy
+
+Resposta:
+Milky Way galaxy
+B: Andromeda galaxy
+C: Triangulum galaxy
+D: Whirlpool galaxy
+E: Barred spiral galaxy
+F: Elliptical galaxy
+G: Irregular galaxy
+H: Dwarf galaxy
+I: Satellite galaxy
+J: Dark matter halo
+K: Halo of a dwarf galaxy
+L: Halo of a barred spiral galaxy
+M: Halo of an elliptical galaxy
+N: Halo of an irregular galaxy
+O: Halo of a dwarf galaxy
+P: Halo of a satellite galaxy
+Q: Halo of a dark matter halo
+R: Halo of a halo of a dwarf galaxy
+S: Halo of a halo of a barred spiral galaxy
+T: Halo of a halo of an elliptical galaxy
+U: Halo of a halo of an irregular galaxy
+V: Halo of a halo of a dwarf galaxy
+W: Halo of a halo of a satellite galaxy
+X: Halo of a halo of a dark matter halo
+Y: Halo of a halo of a halo of
+
+Real time: 40.26s
+GPU Load (max): 40.0%
+GPU Memory (max): 5357568 KB

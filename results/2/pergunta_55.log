@@ -1,0 +1,10 @@
+Modelo: mistral_v0.2
+Pergunta ID: 55
+Pergunta: which branch of the us government makes federal laws
+
+Resposta:
+The United States Congress is the branch of the Federal Government that makes federal laws. It is composed of two houses: the Senate and the House of Representatives. Together, they have the power to legislate, or create new laws, under the Constitution of the United States.
+
+Real time: 23.98s
+GPU Load (max): 33.0%
+GPU Memory (max): 149504 KB
