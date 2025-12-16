@@ -1,0 +1,11 @@
+Modelo: mistral_v0.1
+Execução: 1
+Pergunta ID: 1
+Pergunta: the last time la dodgers won the world series
+
+Resposta:
+1988
+
+Real time: 17.51s
+GPU Load (max): 57.0%
+GPU Memory (max): 5419008 KB

@@ -1,0 +1,11 @@
+Modelo: mistral_v0.1
+Execução: 3
+Pergunta ID: 5
+Pergunta: field hockey is the national sport of which country
+
+Resposta:
+India
+
+Real time: 0.79s
+GPU Load (max): 36.0%
+GPU Memory (max): 5403648 KB

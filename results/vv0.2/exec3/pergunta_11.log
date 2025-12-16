@@ -1,0 +1,11 @@
+Modelo: mistral_v0.2
+Execução: 3
+Pergunta ID: 11
+Pergunta: what color is the president of south koreas house
+
+Resposta:
+The President of South Korea resides in a building called the "Blue House" (Cheong Wa Dae in Korean). However, the name "Blue House" does not necessarily mean that the entire building is blue. The term "blue" comes from the fact that the main building was originally painted blue during the Joseon Dynasty to distinguish it from other government buildings. Currently, the Blue House is predominantly colored in a light brown hue.
+
+Real time: 15.68s
+GPU Load (max): 46.0%
+GPU Memory (max): 5412864 KB

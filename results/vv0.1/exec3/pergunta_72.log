@@ -1,0 +1,11 @@
+Modelo: mistral_v0.1
+Execução: 3
+Pergunta ID: 72
+Pergunta: the states which are bounded by the bay of bengal
+
+Resposta:
+Bangladesh, India, Myanmar
+
+Real time: 2.22s
+GPU Load (max): 35.0%
+GPU Memory (max): 5403648 KB

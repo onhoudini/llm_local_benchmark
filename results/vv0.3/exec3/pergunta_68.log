@@ -1,0 +1,11 @@
+Modelo: mistral_v0.3
+Execução: 3
+Pergunta ID: 68
+Pergunta: what age do you go to school in japan
+
+Resposta:
+In Japan, children typically start kindergarten (yochien) at around 6 years old. They then move on to six years of primary education (shogakko and chugakko), which is mandatory for all children between the ages of 6 and 15. After that, they attend high school (koukou) for three years, usually starting at age 15 or 16. Some students may also choose to attend university or junior college after high school. However, the exact age can vary depending on the specific school and the student's individual circumstances.
+
+Real time: 22.70s
+GPU Load (max): 41.0%
+GPU Memory (max): 5408768 KB

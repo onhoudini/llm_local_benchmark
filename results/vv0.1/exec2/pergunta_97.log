@@ -1,0 +1,11 @@
+Modelo: mistral_v0.1
+Execução: 2
+Pergunta ID: 97
+Pergunta: who sings a white sport coat and a pink carnation
+
+Resposta:
+Frank Sinatra
+
+Real time: 1.35s
+GPU Load (max): 40.0%
+GPU Memory (max): 5403648 KB

@@ -1,0 +1,11 @@
+Modelo: mistral_v0.1
+Execução: 2
+Pergunta ID: 10
+Pergunta: who is the nationalist leader associated with the american revolution
+
+Resposta:
+George Washington
+
+Real time: 1.21s
+GPU Load (max): 21.0%
+GPU Memory (max): 5404672 KB

@@ -1,0 +1,11 @@
+Modelo: mistral_v0.3
+Execução: 3
+Pergunta ID: 5
+Pergunta: field hockey is the national sport of which country
+
+Resposta:
+Field hockey is not the national sport of any country. However, it is the national sport of Pakistan and India, where it enjoys a high level of popularity. In Pakistan, it is known as "Hockey Wala" (the hockey-playing nation). In India, it is one of the most popular sports, with the Indian men's field hockey team being one of the most successful in the world, having won eight Olympic gold medals.
+
+Real time: 17.37s
+GPU Load (max): 23.0%
+GPU Memory (max): 5408768 KB

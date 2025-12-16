@@ -18,9 +18,9 @@ DATASET_PATH = Path.home() / "Documentos/pesquisa/ollama-test/input/NQ-open.effi
 RESULTS_DIR = Path.home() / "Documentos/pesquisa/ollama-test/results"
 OLLAMA_API = "http://localhost:11434/api/generate"
 
-MODELS = ["mistral_v0.1", "mistral_v0.2", "mistral_v0.3"]
+MODELS = ["mistral_v0.3"]
 NUM_EXECUTIONS = 3
-
+# MODELS = ["mistral_v0.1", "mistral_v0.2", "mistral_v0.3"]
 
 def benchmark_question(model, question):
     start_time = time.time()

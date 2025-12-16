@@ -1,0 +1,11 @@
+Modelo: mistral_v0.2
+Execução: 3
+Pergunta ID: 27
+Pergunta: in humans what determines the gender of the offspring
+
+Resposta:
+In humans, the gender of the offspring is determined by the sex chromosomes carried by the sperm and the egg. A sperm can carry either an X or a Y chromosome. An egg can only carry an X chromosome. If a sperm with an X chromosome fertilizes an egg, the resulting offspring will be female (XX). If a sperm with a Y chromosome fertilizes an egg, the resulting offspring will be male (XY). Therefore, the gender of the offspring is not determined by the parents' genders or their physical characteristics, but rather by which sex chromosome is contributed by each parent.
+
+Real time: 23.74s
+GPU Load (max): 28.0%
+GPU Memory (max): 5411840 KB

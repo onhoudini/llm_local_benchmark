@@ -1,0 +1,11 @@
+Modelo: mistral_v0.3
+Execução: 2
+Pergunta ID: 1
+Pergunta: the last time la dodgers won the world series
+
+Resposta:
+The Los Angeles Dodgers last won the World Series in 2020, defeating the Tampa Bay Rays in six games. Prior to that, they had not won since 1988 when they defeated the Oakland Athletics in five games.
+
+Real time: 10.47s
+GPU Load (max): 28.0%
+GPU Memory (max): 5409792 KB

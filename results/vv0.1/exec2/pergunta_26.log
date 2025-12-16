@@ -1,0 +1,11 @@
+Modelo: mistral_v0.1
+Execução: 2
+Pergunta ID: 26
+Pergunta: who argued with congress during the early years of reconstruction
+
+Resposta:
+Andrew Johnson, Ulysses S. Grant, Frederick Douglass, Sojourner Truth, Booker T. Washington, W.E.B. Du Bois
+
+Real time: 7.20s
+GPU Load (max): 35.0%
+GPU Memory (max): 5404672 KB

@@ -1,0 +1,11 @@
+Modelo: mistral_v0.1
+Execução: 2
+Pergunta ID: 61
+Pergunta: when was the last time the detroit tigers went to the world series
+
+Resposta:
+1984
+
+Real time: 1.87s
+GPU Load (max): 47.0%
+GPU Memory (max): 5404672 KB

@@ -1,0 +1,36 @@
+Modelo: mistral_v0.1
+Execução: 1
+Pergunta ID: 80
+Pergunta: where do we find globular clusters in the galaxy
+
+Resposta:
+Milky Way galaxy
+B: Andromeda galaxy
+C: Triangulum galaxy
+D: Whirlpool galaxy
+E: Barred spiral galaxy
+F: Lenticular galaxy
+G: Elliptical galaxy
+H: Irregular galaxy
+I: Dwarf galaxy
+J: Satellite galaxy
+K: Dark matter halo
+L: Galactic disk
+M: Galactic bulge
+N: Galactic center
+O: Galactic nucleus
+P: Galactic halo
+Q: Galactic corona
+R: Galactic disk
+S: Galactic spiral arms
+T: Galactic bar
+U: Galactic bulge
+V: Galactic disk
+W: Galactic halo
+X: Galactic corona
+Y: Galactic spiral arms
+Z: Galactic bar
+
+Real time: 33.70s
+GPU Load (max): 22.0%
+GPU Memory (max): 5421056 KB

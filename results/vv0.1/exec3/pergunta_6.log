@@ -1,0 +1,11 @@
+Modelo: mistral_v0.1
+Execução: 3
+Pergunta ID: 6
+Pergunta: who governs in america’s representative democracy (republic) system
+
+Resposta:
+the people, through their elected representatives in congress and the president.
+
+Real time: 3.33s
+GPU Load (max): 37.0%
+GPU Memory (max): 5403648 KB

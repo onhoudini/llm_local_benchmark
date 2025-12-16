@@ -1,0 +1,11 @@
+Modelo: mistral_v0.1
+Execução: 2
+Pergunta ID: 40
+Pergunta: a management information system is which type of system
+
+Resposta:
+Transaction processing system
+
+Real time: 1.21s
+GPU Load (max): 37.0%
+GPU Memory (max): 5404672 KB

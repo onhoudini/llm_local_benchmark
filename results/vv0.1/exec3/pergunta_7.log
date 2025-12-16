@@ -1,0 +1,11 @@
+Modelo: mistral_v0.1
+Execução: 3
+Pergunta ID: 7
+Pergunta: who is the song you're my best friend about
+
+Resposta:
+The Beatles - "I Get By With a Little Help From My Friends"
+
+Real time: 3.79s
+GPU Load (max): 36.0%
+GPU Memory (max): 5403648 KB
