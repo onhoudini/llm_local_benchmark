@@ -82,16 +82,16 @@ def generate_report(model_name, results, metrics):
     report.append(f"ANÁLISE: {model_name}")
     report.append(f"{'='*80}\n")
     
-    # Factualidade
     matches = sum(1 for r in results if r["match"])
     accuracy = (matches / len(results)) * 100
+    matched_ids = [str(r["q_id"]) for r in results if r["match"]]
     
     report.append(f"FACTUALIDADE")
     report.append(f"-" * 40)
     report.append(f"Acurácia: {accuracy:.2f}% ({matches}/{len(results)})")
+    report.append(f"Perguntas com acurácia: {', '.join(matched_ids)}")
     report.append("")
     
-    # Tempo
     report.append(f"DESEMPENHO - TEMPO")
     report.append(f"-" * 40)
     report.append(f"Média: {statistics.mean(metrics['time']):.2f}s")
@@ -101,7 +101,6 @@ def generate_report(model_name, results, metrics):
         report.append(f"Desvio padrão: {statistics.stdev(metrics['time']):.2f}s")
     report.append("")
     
-    # GPU
     report.append(f"DESEMPENHO - GPU")
     report.append(f"-" * 40)
     report.append(f"Carga média: {statistics.mean(metrics['gpu_percent']):.1f}%")
@@ -111,7 +110,6 @@ def generate_report(model_name, results, metrics):
         report.append(f"Desvio padrão: {statistics.stdev(metrics['gpu_percent']):.1f}%")
     report.append("")
     
-    # VRAM
     report.append(f"DESEMPENHO - MEMÓRIA")
     report.append(f"-" * 40)
     mem_mb = [m / 1024 for m in metrics['gpu_mem_kb']]
@@ -144,7 +142,6 @@ def main():
                 all_reports.append(report)
                 print(report)
     
-    # Relatório
     report_path = RESULTS_DIR / "ANALYSIS_REPORT.txt"
     with open(report_path, "w", encoding="utf-8") as f:
         f.write("\n\n".join(all_reports))
