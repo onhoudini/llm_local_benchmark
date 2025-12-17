@@ -1,0 +1,11 @@
+Modelo: mistral_v0.2
+Execução: 2
+Pergunta ID: 55
+Pergunta: which branch of the us government makes federal laws
+
+Resposta:
+The United States Congress is the branch of the Federal Government that makes federal laws. It is composed of two houses: the Senate and the House of Representatives. Together, they have the power to legislate and pass laws, which must then be signed by the President to become effective. If the President vetoes a bill, it can still become law if both houses of Congress override the veto with a two-thirds vote.
+
+Real time: 16.00s
+GPU Load (max): 48.0%
+VRAM (max): 5538816 KB

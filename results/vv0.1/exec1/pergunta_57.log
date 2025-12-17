@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 57
-Pergunta: one who signals train to start or stop
+Pergunta: What is the capital city of South Korea?
 
 Resposta:
-locomotive driver
+The capital city of South Korea is Seoul.
 
-Real time: 1.37s
-GPU Load (max): 45.0%
-GPU Memory (max): 5421056 KB
+Real time: 2.48s
+GPU Load (max): 37.0%
+VRAM (max): 5347328 KB

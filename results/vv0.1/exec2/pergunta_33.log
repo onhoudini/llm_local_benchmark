@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 33
-Pergunta: the man in the high castle who is he
+Pergunta: What is the chemical symbol for iron?
 
 Resposta:
-Prince Philip, Duke of Edinburgh
+The chemical symbol for iron is "Fe".
 
-Real time: 1.81s
-GPU Load (max): 36.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.16s
+GPU Load (max): 27.0%
+VRAM (max): 5321728 KB

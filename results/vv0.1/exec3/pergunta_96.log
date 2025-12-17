@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 96
-Pergunta: when do meredith and derek get back together in season 2
+Pergunta: What is the capital city of Austria?
 
 Resposta:
-episode 10
+Vienna
 
-Real time: 1.60s
-GPU Load (max): 44.0%
-GPU Memory (max): 5403648 KB
+Real time: 0.91s
+GPU Load (max): 32.0%
+VRAM (max): 5258240 KB

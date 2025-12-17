@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 3
 Pergunta ID: 31
-Pergunta: what time period is a league of their own
+Pergunta: What is the smallest prime number?
 
 Resposta:
-"A League of Their Own" is a reference to a movie, not a specific time period. The movie is set during World War II, more specifically in 1943 when the All-American Girls Professional Baseball League (AAGPBL) was founded as a replacement for Major League Baseball (MLB) players who were serving in the military. The movie follows the Rockford Peaches, a fictional team in the AAGPBL.
+The smallest prime number is 2.
 
-Real time: 17.62s
-GPU Load (max): 41.0%
-GPU Memory (max): 5408768 KB
+Real time: 2.18s
+GPU Load (max): 35.0%
+VRAM (max): 5490688 KB

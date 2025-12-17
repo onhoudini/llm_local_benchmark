@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 3
 Pergunta ID: 47
-Pergunta: what is the meaning of zhongguo renmin yinhang
+Pergunta: What is the capital city of Australia?
 
 Resposta:
-"Zhongguo Renmin Yinhang" is the name of a major Chinese bank, which translates to "China People's Bank" in English. It was established on December 28, 1949, and is one of the largest state-owned commercial banks in China. The bank provides various financial services including savings accounts, loans, credit cards, and wealth management products for individuals and businesses. It plays a significant role in implementing monetary policies set by the People's Bank of China, the central bank of China.
+The capital city of Australia is Canberra. It's located in the Australian Capital Territory (ACT) and was purpose-built as the capital, unlike most other capitals which have grown organically around a port or a historical site.
 
-Real time: 19.64s
-GPU Load (max): 47.0%
-GPU Memory (max): 5412864 KB
+Real time: 10.53s
+GPU Load (max): 41.0%
+VRAM (max): 5500928 KB

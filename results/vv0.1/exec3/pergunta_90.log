@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 90
-Pergunta: what are the three types of wind turbines
+Pergunta: What is the largest land animal?
 
 Resposta:
-Horizontal-axis wind turbines, Vertical-axis wind turbines, Hybrid wind turbines.
+The largest land animal is the African elephant.
 
-Real time: 4.84s
-GPU Load (max): 36.0%
-GPU Memory (max): 5403648 KB
+Real time: 2.44s
+GPU Load (max): 30.0%
+VRAM (max): 5316608 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 2
 Pergunta ID: 29
-Pergunta: what is the song shine bright like a diamond about
+Pergunta: What is the capital city of Canada?
 
 Resposta:
-"Shine Bright Like a Diamond" is a song written by Dan Wilson and originally performed by the American country music artist Taylor Swift. It was released as the third single from her fourth studio album, "Speak Now," in 2010. The song is an upbeat, empowering number where Swift sings about finding beauty and strength in a seemingly ordinary person. The title of the song comes from the line "You're the sunshine in between the rain," which suggests that this person shines brightly, even during difficult times. Overall, the song celebrates the idea that everyone has the potential to be extraordinary and encourages listeners to see the best in themselves and others.
+The capital city of Canada is Ottawa. It is located in the province of Ontario, along the south bank of the Ottawa River. Ottawa has been the capital city since 1867, when Canada became a self-governing dominion within the British Empire. Today, it is known for its rich history, cultural diversity, and beautiful natural surroundings. Some popular attractions in Ottawa include the Parliament Hill, Rideau Canal, and the National Gallery of Canada.
 
-Real time: 24.33s
-GPU Load (max): 46.0%
-GPU Memory (max): 5409792 KB
+Real time: 19.96s
+GPU Load (max): 36.0%
+VRAM (max): 5500928 KB

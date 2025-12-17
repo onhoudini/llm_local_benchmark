@@ -1,0 +1,11 @@
+Modelo: mistral_v0.1
+Execução: 2
+Pergunta ID: 11
+Pergunta: what color is the president of south koreas house
+
+Resposta:
+White
+
+Real time: 0.92s
+GPU Load (max): 35.0%
+VRAM (max): 5648384 KB

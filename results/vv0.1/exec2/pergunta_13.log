@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 13
-Pergunta: who won the first season of the rap game
+Pergunta: What is the boiling point of water in degrees Celsius at sea level?
 
 Resposta:
-Jay-Z
+The boiling point of water at sea level is 100 degrees Celsius or 212 degrees Fahrenheit.
 
-Real time: 1.22s
-GPU Load (max): 35.0%
-GPU Memory (max): 5404672 KB
+Real time: 5.76s
+GPU Load (max): 45.0%
+VRAM (max): 5348352 KB

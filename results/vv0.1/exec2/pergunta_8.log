@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 8
-Pergunta: where was the church of latter day saints founded
+Pergunta: How many days are there in a week?
 
 Resposta:
-Independence, Missouri
+There are 7 days in a week.
 
-Real time: 1.50s
-GPU Load (max): 35.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.44s
+GPU Load (max): 24.0%
+VRAM (max): 5348352 KB

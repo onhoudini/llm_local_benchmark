@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 88
-Pergunta: who sampled rick james give it to me baby
+Pergunta: What is the capital city of the Netherlands?
 
 Resposta:
-The song "Give It To Me Baby" by Timbaland featuring Nelly Furtado, from the album "Shock Value," samples Rick James' original version. However, another notable sample of this song is by Will Smith in his track "Miami" from the album "Big Willie Style." Both versions use a portion of the iconic bassline and vocals from Rick James' original song.
+Amsterdam is not the capital city of the Netherlands. The capital city is actually Amsterdam's neighbor, a city called Amsterdam. Confusing, isn't it? The actual capital city of the Netherlands is Den Haag (The Hague).
 
-Real time: 15.72s
-GPU Load (max): 41.0%
-GPU Memory (max): 5408768 KB
+Real time: 9.62s
+GPU Load (max): 43.0%
+VRAM (max): 5490688 KB

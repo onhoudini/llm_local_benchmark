@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 56
-Pergunta: by the year 2000 the largest number of legal immigrations to the united states came from
+Pergunta: What is the chemical symbol for potassium?
 
 Resposta:
-Mexico
+The chemical symbol for potassium is K.
 
-Real time: 1.18s
-GPU Load (max): 45.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.55s
+GPU Load (max): 42.0%
+VRAM (max): 5321728 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 51
-Pergunta: who is the main character in the labyrinth
+Pergunta: What is the capital city of Russia?
 
 Resposta:
-The main character in "The Labyrinth" is Sarah, played by Jennifer Connelly. She embarks on a journey through the titular labyrinth to save her baby brother Toby from the Goblin King, Jareth, who was played by David Bowie.
+Moscow
 
-Real time: 11.16s
-GPU Load (max): 36.0%
-GPU Memory (max): 5408768 KB
+Real time: 0.66s
+GPU Load (max): 41.0%
+VRAM (max): 5489664 KB

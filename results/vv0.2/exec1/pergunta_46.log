@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 1
 Pergunta ID: 46
-Pergunta: kuchipudi is a dance form of which state
+Pergunta: How many minutes are in one hour?
 
 Resposta:
-Kuchipudi is a classical dance form that originated in the Indian state of Andhra Pradesh, specifically in the region around the temple town of Kuchipudi. It is known for its intricate footwork, expressive facial gestures, and storytelling through mime and acting. The dance is traditionally performed to the accompaniment of Carnatic music.
+There are 60 minutes in one hour.
 
-Real time: 13.36s
+Real time: 2.79s
 GPU Load (max): 40.0%
-GPU Memory (max): 5399552 KB
+VRAM (max): 5518336 KB

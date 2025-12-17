@@ -1,0 +1,11 @@
+Modelo: mistral_v0.3
+Execução: 2
+Pergunta ID: 62
+Pergunta: who is covered by the right to financial privacy act
+
+Resposta:
+The Right to Financial Privacy Act (RFPA) primarily applies to individuals, not businesses or organizations. Specifically, it protects U.S. citizens and permanent resident aliens from certain types of warrantless searches and disclosures of their private financial records by government agencies. However, it's important to note that the RFPA has been largely superseded by more recent laws such as the USA PATRIOT Act, which expanded the government's ability to access financial records in certain circumstances. Always consult with a legal professional for specific advice regarding privacy rights and laws.
+
+Real time: 22.09s
+GPU Load (max): 37.0%
+VRAM (max): 5536768 KB

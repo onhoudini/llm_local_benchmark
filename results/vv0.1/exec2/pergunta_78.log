@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 78
-Pergunta: minimum age limit for chief justice of india
+Pergunta: What is the capital city of Turkey?
 
 Resposta:
-58 years
+The capital city of Turkey is Ankara.
 
-Real time: 1.37s
-GPU Load (max): 32.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.46s
+GPU Load (max): 37.0%
+VRAM (max): 5321728 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 19
-Pergunta: when is the draw for the european championships 2020
+Pergunta: What is the currency used in the United States?
 
 Resposta:
-19th march 2020
+The currency used in the United States is the United States Dollar (USD).
 
-Real time: 2.73s
-GPU Load (max): 47.0%
-GPU Memory (max): 5427200 KB
+Real time: 3.54s
+GPU Load (max): 37.0%
+VRAM (max): 5365760 KB

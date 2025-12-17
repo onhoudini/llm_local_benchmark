@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 2
 Pergunta ID: 68
-Pergunta: what age do you go to school in japan
+Pergunta: What is the chemical symbol for silver?
 
 Resposta:
-In Japan, children typically start kindergarten at the age of 6 or 7. They then attend six years of primary school from around the age of 6 to 12. After that, they attend three years of junior high school, usually starting around the age of 13 and finishing when they are around 15. Finally, they attend three years of senior high school, typically starting at around 16 and graduating at 18 or 19. Some students may choose to attend a university or college after that for higher education. So, in summary, children in Japan usually start formal schooling around the age of 6 and continue until their late teens.
+The chemical symbol for silver is Ag.
 
-Real time: 23.94s
+Real time: 2.40s
 GPU Load (max): 41.0%
-GPU Memory (max): 5409792 KB
+VRAM (max): 5500928 KB

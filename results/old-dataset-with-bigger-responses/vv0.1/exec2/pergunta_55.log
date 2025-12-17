@@ -1,0 +1,11 @@
+Modelo: mistral_v0.1
+Execução: 2
+Pergunta ID: 55
+Pergunta: which branch of the us government makes federal laws
+
+Resposta:
+Congress
+
+Real time: 1.09s
+GPU Load (max): 40.0%
+VRAM (max): 5558272 KB

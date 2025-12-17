@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 7
-Pergunta: who is the song you're my best friend about
+Pergunta: What is the square root of 16?
 
 Resposta:
-The Beatles - "I Get By With a Little Help From My Friends"
+The square root of 16 is 4.
 
-Real time: 3.79s
-GPU Load (max): 33.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.58s
+GPU Load (max): 40.0%
+VRAM (max): 5348352 KB

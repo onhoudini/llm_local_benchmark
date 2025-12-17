@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 3
 Pergunta ID: 44
-Pergunta: who sings now that we have love what are we going to do with it
+Pergunta: What is the chemical symbol for sodium?
 
 Resposta:
-"Now That We Have Love" is a song by the American R&B group H-Town. The lead vocals on the track are sung by the group's members Dion Drake and Johnnie Morton, with background vocals provided by the rest of the group. The song was released as the second single from their debut album "Kitties for Sale" in 1993.
+The chemical symbol for sodium is Na.
 
-Real time: 14.44s
-GPU Load (max): 47.0%
-GPU Memory (max): 5411840 KB
+Real time: 2.52s
+GPU Load (max): 40.0%
+VRAM (max): 5500928 KB

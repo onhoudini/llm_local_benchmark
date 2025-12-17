@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 1
 Pergunta ID: 23
-Pergunta: who were the sponsor of the icc world cup when it was hosted outside england for the first time
+Pergunta: How many sides does a triangle have?
 
 Resposta:
-The first ICC World Cup held outside England was in 1975, and it was sponsored by Kodak. This tournament took place in England and Wales, but subsequent editions held outside England were sponsored by different companies. For instance, the 1983 World Cup in England was sponsored by Pepsi, while the 1987 World Cup in India and Pakistan was sponsored by Coca-Cola. The 1996 World Cup in India, Pakistan, and Sri Lanka was sponsored by Wills Sports, a tobacco brand.
+A triangle has three sides.
 
-Real time: 22.06s
-GPU Load (max): 42.0%
-GPU Memory (max): 5404672 KB
+Real time: 1.92s
+GPU Load (max): 41.0%
+VRAM (max): 5501952 KB

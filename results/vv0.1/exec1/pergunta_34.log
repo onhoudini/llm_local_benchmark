@@ -1,12 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 34
-Pergunta: what was the last episode of inspector morse
+Pergunta: How many planets are in the Solar System?
 
 Resposta:
-The Last Morse Case
-A: The Last Morse Case
+There are eight planets in the Solar System.
 
-Real time: 3.42s
-GPU Load (max): 39.0%
-GPU Memory (max): 5444608 KB
+Real time: 2.29s
+GPU Load (max): 35.0%
+VRAM (max): 5347328 KB

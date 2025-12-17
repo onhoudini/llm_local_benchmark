@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 14
-Pergunta: actor who played tommy in terms of endearment
+Pergunta: What is the largest planet in the Solar System?
 
 Resposta:
-The actor who played Tommy in the popular TV series "Peaky Blinders" is Cillian Murphy. His portrayal of Tommy Shelby has earned him much acclaim and endearment from viewers.
+The largest planet in our Solar System is Jupiter. It's known for its great red spot, a storm that has been raging on the planet for at least 300 years.
 
-Real time: 8.61s
-GPU Load (max): 40.0%
-GPU Memory (max): 5408768 KB
+Real time: 7.89s
+GPU Load (max): 37.0%
+VRAM (max): 5488640 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 64
-Pergunta: who decided what rights should be included in the convention on the rights of the child
+Pergunta: What natural satellite orbits the Earth?
 
 Resposta:
-United Nations General Assembly
+The Moon is the only natural satellite that orbits the Earth.
 
-Real time: 1.61s
-GPU Load (max): 28.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.86s
+GPU Load (max): 34.0%
+VRAM (max): 5321728 KB

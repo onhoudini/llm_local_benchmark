@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 3
 Pergunta ID: 96
-Pergunta: when do meredith and derek get back together in season 2
+Pergunta: What is the capital city of Austria?
 
 Resposta:
-In the second season of "Grey's Anatomy," Meredith and Derek (also known as MerDer) take a break from their relationship due to personal and professional issues. They don't officially get back together until the season finale, episode 24 ("It's the End of the World"). However, it's important to note that their reunion is brief, as Derek leaves for a fellowship in Washington D.C. at the end of the season. Their relationship continues to evolve throughout subsequent seasons.
+Vienna (Wien in German) is the capital city of Austria.
 
-Real time: 21.17s
-GPU Load (max): 47.0%
-GPU Memory (max): 5408768 KB
+Real time: 3.20s
+GPU Load (max): 37.0%
+VRAM (max): 5494784 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 93
-Pergunta: who won the fifa fair play award 2018
+Pergunta: What is the capital city of Finland?
 
 Resposta:
-France
+The capital city of Finland is Helsinki.
 
-Real time: 0.93s
-GPU Load (max): 27.0%
-GPU Memory (max): 5402624 KB
+Real time: 2.73s
+GPU Load (max): 33.0%
+VRAM (max): 5342208 KB

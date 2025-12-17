@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 41
-Pergunta: when did the harry potter movie come out
+Pergunta: What is the largest desert in the world?
 
 Resposta:
-2001
+The largest desert in the world is the Antarctic Desert.
 
-Real time: 1.78s
-GPU Load (max): 40.0%
-GPU Memory (max): 5438464 KB
+Real time: 3.15s
+GPU Load (max): 37.0%
+VRAM (max): 5347328 KB

@@ -1,0 +1,11 @@
+Modelo: mistral_v0.2
+Execução: 2
+Pergunta ID: 78
+Pergunta: minimum age limit for chief justice of india
+
+Resposta:
+The Constitution of India sets no minimum age limit specifically for the Chief Justice of India. However, a person must be a citizen of India and should be a judge of a High Court or have been a judge of a High Court or of two or more courts subordinate to a High Court for at least five years to be eligible for appointment as the Chief Justice of India. (Article 124(3) of the Constitution of India).
+
+Real time: 16.72s
+GPU Load (max): 43.0%
+VRAM (max): 5538816 KB

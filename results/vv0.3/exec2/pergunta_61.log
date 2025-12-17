@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 61
-Pergunta: when was the last time the detroit tigers went to the world series
+Pergunta: What instrument is used to measure temperature?
 
 Resposta:
-The Detroit Tigers last appeared in the World Series in 2012. They lost to the San Francisco Giants in four games. Prior to that, their most recent World Series win was in 1984 against the San Diego Padres.
+Thermometer
 
-Real time: 10.78s
-GPU Load (max): 44.0%
-GPU Memory (max): 5408768 KB
+Real time: 1.21s
+GPU Load (max): 40.0%
+VRAM (max): 5489664 KB

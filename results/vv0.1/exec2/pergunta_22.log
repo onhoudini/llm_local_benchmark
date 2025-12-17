@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 22
-Pergunta: who sang vande maataram in 1896 congress session
+Pergunta: What is the capital city of Italy?
 
 Resposta:
-Rabindranath Tagore
+Rome
 
-Real time: 1.94s
-GPU Load (max): 40.0%
-GPU Memory (max): 5404672 KB
+Real time: 0.91s
+GPU Load (max): 36.0%
+VRAM (max): 5316608 KB

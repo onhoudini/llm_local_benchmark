@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 93
-Pergunta: who won the fifa fair play award 2018
+Pergunta: What is the capital city of Finland?
 
 Resposta:
-The FIFA Fair Play Award 2018 was given to the Croatian national football team. They were recognized for their sportsmanship during the 2018 FIFA World Cup, particularly in their match against England where they showed respect and empathy towards England's goalkeeper Jordan Pickford after an injury.
+The capital city of Finland is Helsinki.
 
-Real time: 12.55s
-GPU Load (max): 41.0%
-GPU Memory (max): 5408768 KB
+Real time: 2.82s
+GPU Load (max): 46.0%
+VRAM (max): 5490688 KB

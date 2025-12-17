@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 89
-Pergunta: who was fighting in the battle of amiens
+Pergunta: What planet is known as the Morning Star?
 
 Resposta:
-germany and france
+The planet known as the Morning Star is Venus.
 
-Real time: 1.64s
-GPU Load (max): 25.0%
-GPU Memory (max): 5403648 KB
+Real time: 2.73s
+GPU Load (max): 37.0%
+VRAM (max): 5321728 KB

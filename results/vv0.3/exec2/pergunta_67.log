@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 67
-Pergunta: what do you call a vest in the uk
+Pergunta: What organ is responsible for filtering blood in humans?
 
 Resposta:
-In the UK, a vest is often referred to as a "waistcoat." However, it can also be called a "vest top" or simply a "vest," especially when referring to a sleeveless garment worn as an undergarment. But for clarity, "waistcoat" is the most common term used in formal and traditional contexts.
+Kidneys
 
-Real time: 14.25s
-GPU Load (max): 32.0%
-GPU Memory (max): 5408768 KB
+Real time: 1.21s
+GPU Load (max): 41.0%
+VRAM (max): 5489664 KB

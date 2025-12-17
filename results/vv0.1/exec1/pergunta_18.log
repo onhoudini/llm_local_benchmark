@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 18
-Pergunta: icc world cup outside england first time sponsor
+Pergunta: What is the hardest natural substance on Earth?
 
 Resposta:
-1
+The hardest naturally occurring substance on Earth is diamond. It has a Mohs hardness of 10, meaning it can only be scratched by another diamond.
 
-Real time: 1.08s
-GPU Load (max): 25.0%
-GPU Memory (max): 5427200 KB
+Real time: 7.15s
+GPU Load (max): 33.0%
+VRAM (max): 5371904 KB

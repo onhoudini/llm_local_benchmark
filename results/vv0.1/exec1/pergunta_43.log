@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 43
-Pergunta: where was the eastern front located in ww1
+Pergunta: What is the main ingredient in bread?
 
 Resposta:
-The Eastern Front of World War I was a major theater of operations during the war, stretching from the Baltic Sea to the Black Sea. It involved many of the major European powers, including Germany, Russia, Austria-Hungary, and Great Britain, as well as several smaller nations. The front was marked by intense fighting and significant casualties, with key battles such as the Battle of Tannenberg, the Brusilov Offensive, and the Battle of the Somme. Ultimately, the Eastern Front played a crucial role in determining the outcome of World War I.
+The main ingredient in bread is flour.
 
-Real time: 23.42s
-GPU Load (max): 41.0%
-GPU Memory (max): 5423104 KB
+Real time: 2.30s
+GPU Load (max): 23.0%
+VRAM (max): 5347328 KB

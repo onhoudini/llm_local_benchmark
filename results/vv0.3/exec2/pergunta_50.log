@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 50
-Pergunta: when the united states entered world war 1 it joined what powers
+Pergunta: What is the largest continent by land area?
 
 Resposta:
-The United States initially remained neutral during World War I, but it eventually joined the Allied Powers (primarily France, Britain, and Russia) on April 6, 1917. However, Russia left the war in March 1918 due to the Russian Revolution, and Germany signed an armistice with the Allies in November 1918, effectively ending World War I.
+The largest continent by land area is Asia. It covers approximately 44,579,000 square kilometers (17,212,000 square miles).
 
-Real time: 15.93s
-GPU Load (max): 46.0%
-GPU Memory (max): 5409792 KB
+Real time: 7.96s
+GPU Load (max): 39.0%
+VRAM (max): 5490688 KB

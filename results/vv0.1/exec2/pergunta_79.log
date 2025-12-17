@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 79
-Pergunta: which part of a corn plant would the kernels be
+Pergunta: What is the largest internal organ in the human body?
 
 Resposta:
-cob
+The liver is the largest internal organ in the human body.
 
-Real time: 1.06s
-GPU Load (max): 32.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.85s
+GPU Load (max): 27.0%
+VRAM (max): 5321728 KB

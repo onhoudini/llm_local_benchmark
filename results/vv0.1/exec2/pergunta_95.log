@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 95
-Pergunta: what is the star sign for september 15
+Pergunta: What is the chemical symbol for phosphorus?
 
 Resposta:
-Virgo
+The chemical symbol for phosphorus is P.
 
-Real time: 1.07s
-GPU Load (max): 41.0%
-GPU Memory (max): 5402624 KB
+Real time: 2.57s
+GPU Load (max): 40.0%
+VRAM (max): 5319680 KB

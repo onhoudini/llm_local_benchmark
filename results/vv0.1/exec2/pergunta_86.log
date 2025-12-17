@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 86
-Pergunta: how many episodes are in one punch man season 1
+Pergunta: What is the chemical symbol for magnesium?
 
 Resposta:
-13
+The chemical symbol for magnesium is Mg.
 
-Real time: 1.23s
-GPU Load (max): 39.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.71s
+GPU Load (max): 37.0%
+VRAM (max): 5321728 KB

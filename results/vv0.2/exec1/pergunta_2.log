@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 1
 Pergunta ID: 2
-Pergunta: who sings ain't nothing but a good time
+Pergunta: How many continents are there on Earth?
 
 Resposta:
-The song "Ain't Nothin' But a Good Time" is sung by the band Poison. It was released as the lead single from their third studio album, "Open Up and Say... Ahh!", in 1988. The lead vocals are performed by the band's frontman, Bret Michaels.
+There are seven continents on Earth. They are: Asia, Africa, North America, South America, Antarctica, Europe, and Australia or Oceania. Each continent is distinct from one another in terms of geography, climate, culture, and population.
 
-Real time: 12.56s
-GPU Load (max): 39.0%
-GPU Memory (max): 5412864 KB
+Real time: 11.23s
+GPU Load (max): 35.0%
+VRAM (max): 5495808 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 15
-Pergunta: when did early voting start in the us
+Pergunta: What country is the Great Pyramid of Giza located in?
 
 Resposta:
-1975
+Egypt
 
-Real time: 1.84s
-GPU Load (max): 35.0%
-GPU Memory (max): 5413888 KB
+Real time: 1.44s
+GPU Load (max): 27.0%
+VRAM (max): 5369856 KB

@@ -1,0 +1,11 @@
+Modelo: mistral_v0.3
+Execução: 1
+Pergunta ID: 27
+Pergunta: in humans what determines the gender of the offspring
+
+Resposta:
+In humans, the gender of the offspring is determined by the sex chromosomes. Normally, human cells have 23 pairs of chromosomes, for a total of 46 chromosomes. One pair of these chromosomes are the sex chromosomes, and they can be either X or Y. Females have two X chromosomes (XX), while males have one X and one Y chromosome (XY). During fertilization, if an X-bearing sperm fertilizes an egg, the resulting offspring will be a female (XX). If a Y-bearing sperm fertilizes an egg, the resulting offspring will be a male (XY).
+
+Real time: 27.30s
+GPU Load (max): 27.0%
+VRAM (max): 5535744 KB

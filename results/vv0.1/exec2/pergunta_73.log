@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 73
-Pergunta: why were the houston astros move to american league
+Pergunta: What gas is released by plants during photosynthesis?
 
 Resposta:
-The Houston Astros moved from the National League to the American League in 2013 as part of Major League Baseball's realignment plan. This change was made to balance out the number of teams in each league and to create more competitive balance within the sport. The Astros were one of several teams that were relocated or rebranded as part of this plan, which also included the Oakland Athletics moving to the AL West and the Tampa Bay Rays moving to the AL East.
+The gas released by plants during photosynthesis is oxygen (O2).
 
-Real time: 20.53s
-GPU Load (max): 36.0%
-GPU Memory (max): 5404672 KB
+Real time: 3.67s
+GPU Load (max): 27.0%
+VRAM (max): 5321728 KB

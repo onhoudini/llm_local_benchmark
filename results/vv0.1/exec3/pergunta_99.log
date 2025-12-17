@@ -1,36 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 99
-Pergunta: the official u.s. poverty line is based on the cost of what
+Pergunta: What is the capital city of Denmark?
 
 Resposta:
-food, housing, clothing, transportation, medical care, and other necessities
-B: education, entertainment, and luxury goods
-C: taxes, insurance, and other government fees
-D: savings and investments
-E: retirement funds and pensions
-F: emergency funds and disaster relief
-G: charitable donations and philanthropy
-H: environmental protection and conservation
-I: public health and safety
-J: national security and defense
-K: international relations and diplomacy
-L: scientific research and innovation
-M: cultural arts and heritage preservation
-N: religious institutions and spiritual practices
-O: sports and recreation
-P: tourism and travel
-Q: real estate and property development
-R: finance and banking
-S: technology and information services
-T: manufacturing and construction
-U: agriculture and natural resources
-V: transportation and logistics
-W: education and training
-X: government administration and public policy
-Y: legal services and justice systems
-Z: media and communications
+The capital city of Denmark is Copenhagen.
 
-Real time: 39.57s
-GPU Load (max): 41.0%
-GPU Memory (max): 5403648 KB
+Real time: 2.57s
+GPU Load (max): 40.0%
+VRAM (max): 5258240 KB

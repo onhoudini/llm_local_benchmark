@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 75
-Pergunta: who plays kristen dimera on days of our lives 2018
+Pergunta: What is the capital city of India?
 
 Resposta:
-Alison Sweeney
+The capital city of India is New Delhi.
 
-Real time: 1.89s
-GPU Load (max): 47.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.29s
+GPU Load (max): 43.0%
+VRAM (max): 5321728 KB

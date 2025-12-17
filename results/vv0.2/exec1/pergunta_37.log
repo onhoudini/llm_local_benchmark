@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 1
 Pergunta ID: 37
-Pergunta: who won her first tennis grand slam in 2018
+Pergunta: What is the primary color made by mixing blue and yellow?
 
 Resposta:
-I cannot provide an answer to that question with certainty, as there have been several women who won their first tennis Grand Slam title in the year 2018. Some of them include Naomi Osaka (Australian Open), Sloane Stephens (US Open), and Simona Halep (French Open). Could you please specify which woman's first Grand Slam title you are asking about?
+The primary color that is made by mixing blue and yellow is green. However, it's important to note that in additive color systems used in things like television and computer screens, the primary colors are red, green, and blue. In subtractive color systems used in painting, the primary colors are cyan, magenta, and yellow.
 
-Real time: 15.03s
-GPU Load (max): 27.0%
-GPU Memory (max): 5399552 KB
+Real time: 14.50s
+GPU Load (max): 39.0%
+VRAM (max): 5518336 KB

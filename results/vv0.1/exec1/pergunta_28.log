@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 28
-Pergunta: when did rolex daytona stop using zenith movement
+Pergunta: What is the freezing point of water in degrees Celsius?
 
 Resposta:
-2000
+The freezing point of water is 0 degree Celsius or 32 degree Fahrenheit.
 
-Real time: 1.90s
-GPU Load (max): 32.0%
-GPU Memory (max): 5425152 KB
+Real time: 4.65s
+GPU Load (max): 27.0%
+VRAM (max): 5347328 KB

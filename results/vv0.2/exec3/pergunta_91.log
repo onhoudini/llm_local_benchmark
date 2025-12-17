@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 3
 Pergunta ID: 91
-Pergunta: who plays ollie in coop and cami ask the world
+Pergunta: What is the chemical symbol for zinc?
 
 Resposta:
-In the YouTube series "Coop and Cami Ask the World," Ollie is portrayed by actor Dakota Lotus. He is a recurring character in the show, often causing mischief and adding excitement to Coop and Cami's adventures.
+The chemical symbol for zinc is "Zn".
 
-Real time: 9.82s
-GPU Load (max): 26.0%
-GPU Memory (max): 5411840 KB
+Real time: 3.07s
+GPU Load (max): 40.0%
+VRAM (max): 5590016 KB

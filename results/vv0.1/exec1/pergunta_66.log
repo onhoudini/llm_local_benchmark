@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 66
-Pergunta: who played the mom in the home alone movies
+Pergunta: What is the capital city of Portugal?
 
 Resposta:
-Jean Smart
+The capital city of Portugal is Lisbon.
 
-Real time: 1.07s
-GPU Load (max): 35.0%
-GPU Memory (max): 5421056 KB
+Real time: 2.32s
+GPU Load (max): 37.0%
+VRAM (max): 5347328 KB

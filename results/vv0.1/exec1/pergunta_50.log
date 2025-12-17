@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 50
-Pergunta: when the united states entered world war 1 it joined what powers
+Pergunta: What is the largest continent by land area?
 
 Resposta:
-Allies
+Asia
 
-Real time: 1.08s
-GPU Load (max): 23.0%
-GPU Memory (max): 5421056 KB
+Real time: 0.93s
+GPU Load (max): 36.0%
+VRAM (max): 5347328 KB

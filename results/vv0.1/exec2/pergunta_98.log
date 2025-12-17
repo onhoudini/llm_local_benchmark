@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 98
-Pergunta: an act of the legislature directly punishing a person or group is referred to as a​
+Pergunta: What organ is responsible for vision?
 
 Resposta:
-criminal law
+The organ responsible for vision is the eye.
 
-Real time: 1.31s
-GPU Load (max): 45.0%
-GPU Memory (max): 5403648 KB
+Real time: 2.29s
+GPU Load (max): 40.0%
+VRAM (max): 5319680 KB

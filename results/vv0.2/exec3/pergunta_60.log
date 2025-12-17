@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 3
 Pergunta ID: 60
-Pergunta: who is the tallest woman in the world and how tall is she
+Pergunta: What is the capital city of Mexico?
 
 Resposta:
-The current record for the tallest woman in the world is held by Svetlana Pankratova from Russia. Her height was measured to be 7 feet 7 inches (231.1 cm) tall at the age of 25, according to Guinness World Records. However, it's important to note that there have been claims of even taller women throughout history, but their heights have not been officially verified.
+The capital city of Mexico is Mexico City. It's important to note that Mexico City is not a state but the Federal District, which is the political and cultural center of the country.
 
-Real time: 16.07s
-GPU Load (max): 38.0%
-GPU Memory (max): 5412864 KB
+Real time: 8.43s
+GPU Load (max): 45.0%
+VRAM (max): 5610496 KB

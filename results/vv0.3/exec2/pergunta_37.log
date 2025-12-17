@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 37
-Pergunta: who won her first tennis grand slam in 2018
+Pergunta: What is the primary color made by mixing blue and yellow?
 
 Resposta:
-Naomi Osaka won her first tennis Grand Slam at the 2018 US Open. She defeated Serena Williams in the final, becoming the first Japanese player to win a Grand Slam singles title.
+Green
 
-Real time: 8.65s
-GPU Load (max): 46.0%
-GPU Memory (max): 5408768 KB
+Real time: 0.92s
+GPU Load (max): 36.0%
+VRAM (max): 5487616 KB

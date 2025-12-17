@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 3
 Pergunta ID: 46
-Pergunta: kuchipudi is a dance form of which state
+Pergunta: How many minutes are in one hour?
 
 Resposta:
-Andhra Pradesh
+60 minutes
 
-Real time: 1.78s
-GPU Load (max): 35.0%
-GPU Memory (max): 5408768 KB
+Real time: 1.50s
+GPU Load (max): 40.0%
+VRAM (max): 5490688 KB

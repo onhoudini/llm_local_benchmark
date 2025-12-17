@@ -1,0 +1,19 @@
+Modelo: mistral_v0.2
+Execução: 2
+Pergunta ID: 56
+Pergunta: by the year 2000 the largest number of legal immigrations to the united states came from
+
+Resposta:
+The largest number of legal immigrants to the United States by the year 2000 came primarily from Asia and Mexico. According to data from the U.S. Department of State, Bureau of Consular Affairs, the top five countries of birth for legal immigrants in the year 2000 were:
+
+1. China - 85,643
+2. India - 79,522
+3. Mexico - 78,325
+4. Philippines - 43,358
+5. Vietnam - 38,355
+
+It's important to note that these numbers represent the largest number of immigrants from each country in a single year and do not necessarily reflect the total number of immigrants from each country over the entire decade or beyond. Additionally, immigration patterns have continued to shift since then, with countries such as India and China becoming even more significant sources of legal immigration in recent years.
+
+Real time: 35.80s
+GPU Load (max): 55.0%
+VRAM (max): 5538816 KB

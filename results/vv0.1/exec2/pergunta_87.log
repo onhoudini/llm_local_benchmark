@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 87
-Pergunta: name of the bird in the lion king
+Pergunta: How many chambers does the human heart have?
 
 Resposta:
-Zazu
+The human heart has four chambers: two atria on the top and two ventricles on the bottom.
 
-Real time: 1.08s
-GPU Load (max): 39.0%
-GPU Memory (max): 5404672 KB
+Real time: 4.79s
+GPU Load (max): 23.0%
+VRAM (max): 5321728 KB

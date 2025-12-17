@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 1
 Pergunta ID: 63
-Pergunta: who is considered to be the inventor of the prepared piano
+Pergunta: What is the capital city of China?
 
 Resposta:
-John Cage is often credited as the inventor of the prepared piano. He began experimenting with preparing pianos in the late 1940s, by placing various objects such as screws, bolts, and erasers between the strings to alter their sound when struck. This technique allowed him to create unique timbres and textures that were not possible through traditional playing techniques. One of his most famous works using a prepared piano is "Sonatas and Interludes" (1946-1948).
+The capital city of China is Beijing.
 
-Real time: 20.71s
-GPU Load (max): 27.0%
-GPU Memory (max): 5399552 KB
+Real time: 2.06s
+GPU Load (max): 37.0%
+VRAM (max): 5494784 KB

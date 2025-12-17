@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 1
 Pergunta ID: 92
-Pergunta: who played the most seasons in nfl history
+Pergunta: How many players are on the field for one soccer team?
 
 Resposta:
-The NFL player with the most seasons played is Merlin Olsen. He played for 15 seasons, primarily with the Los Angeles Rams from 1962 to 1976. Olsen was a dominant defensive tackle and an eight-time Pro Bowler. His longevity in the league is impressive, especially considering the physical demands of professional football.
+Eleven players make up a soccer team's starting lineup. However, during a game, each team can have a maximum of seven substitutes, so the total number of players who can be involved in a match is twelve per team. On the field at any given time, only eleven players play.
 
-Real time: 13.78s
-GPU Load (max): 41.0%
-GPU Memory (max): 5399552 KB
+Real time: 12.87s
+GPU Load (max): 46.0%
+VRAM (max): 5497856 KB

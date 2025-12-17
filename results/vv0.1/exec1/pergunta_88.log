@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 88
-Pergunta: who sampled rick james give it to me baby
+Pergunta: What is the capital city of the Netherlands?
 
 Resposta:
-Dr. Dre
+The capital city of the Netherlands is Amsterdam.
 
-Real time: 1.35s
-GPU Load (max): 36.0%
-GPU Memory (max): 5417984 KB
+Real time: 2.28s
+GPU Load (max): 37.0%
+VRAM (max): 5342208 KB

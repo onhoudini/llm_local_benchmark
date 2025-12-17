@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 26
-Pergunta: who argued with congress during the early years of reconstruction
+Pergunta: What is the largest mammal on Earth?
 
 Resposta:
-Andrew Johnson, Ulysses S. Grant, Frederick Douglass, Sojourner Truth, Booker T. Washington, W.E.B. Du Bois
+Blue whale.
 
-Real time: 7.53s
-GPU Load (max): 28.0%
-GPU Memory (max): 5437440 KB
+Real time: 1.47s
+GPU Load (max): 24.0%
+VRAM (max): 5347328 KB

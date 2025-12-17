@@ -1,0 +1,11 @@
+Modelo: mistral_v0.3
+Execução: 2
+Pergunta ID: 50
+Pergunta: when the united states entered world war 1 it joined what powers
+
+Resposta:
+The United States initially remained neutral during World War I, but it eventually joined the Allied Powers (primarily France, Britain, and Russia) on April 6, 1917. However, Russia left the war in March 1918 due to the Russian Revolution, and Germany signed an armistice with the Allies in November 1918, effectively ending World War I.
+
+Real time: 16.04s
+GPU Load (max): 41.0%
+VRAM (max): 5536768 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 2
 Pergunta ID: 13
-Pergunta: who won the first season of the rap game
+Pergunta: What is the boiling point of water in degrees Celsius at sea level?
 
 Resposta:
-The first season of "The Rap Game," a reality television show produced by Jermaine Dupri, aired on Lifetime from 2016 to 2017. The winner of the competition was a young rapper named Mani Coolin from Atlanta, Georgia. He was mentored by Jermaine Dupri throughout the season and ultimately won the grand prize, which included a recording contract with So So Def Recordings and $100,000 to invest in his music career.
+The boiling point of water at standard atmospheric pressure, which is equivalent to sea level, is 100 degrees Celsius or 212 degrees Fahrenheit.
 
-Real time: 18.63s
-GPU Load (max): 37.0%
-GPU Memory (max): 5409792 KB
+Real time: 8.52s
+GPU Load (max): 38.0%
+VRAM (max): 5504000 KB

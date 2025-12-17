@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 24
-Pergunta: what is the most uneducated state in america
+Pergunta: What is the chemical symbol for gold?
 
 Resposta:
-Mississippi
+The chemical symbol for gold is Au.
 
-Real time: 0.80s
-GPU Load (max): 35.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.18s
+GPU Load (max): 40.0%
+VRAM (max): 5321728 KB

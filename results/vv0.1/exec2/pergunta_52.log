@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 52
-Pergunta: the predictable order of changes in communities after a change occurs
+Pergunta: What is the main gas found in Earth's atmosphere?
 
 Resposta:
-1. initial shock and resistance, 2. gradual acceptance, 3. adoption and integration, 4. innovation and growth
+The main gas found in Earth's atmosphere is nitrogen (N2), which makes up about 78% of the total volume.
 
-Real time: 6.08s
-GPU Load (max): 40.0%
-GPU Memory (max): 5404672 KB
+Real time: 5.64s
+GPU Load (max): 37.0%
+VRAM (max): 5321728 KB

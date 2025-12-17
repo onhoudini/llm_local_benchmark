@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 74
-Pergunta: when did the water bottle flip challenge start
+Pergunta: What is the chemical symbol for calcium?
 
 Resposta:
-2017
+The chemical symbol for calcium is Ca.
 
-Real time: 1.64s
-GPU Load (max): 41.0%
-GPU Memory (max): 5421056 KB
+Real time: 2.32s
+GPU Load (max): 31.0%
+VRAM (max): 5347328 KB

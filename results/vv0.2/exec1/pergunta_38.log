@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 1
 Pergunta ID: 38
-Pergunta: who sings i got you under my skin
+Pergunta: What is the capital city of Spain?
 
 Resposta:
-"I've Got You Under My Skin" is a song written by Cole Porter and was first performed by Billie Holiday in 1942. However, it is most famously associated with the recording by Frank Sinatra, which was released in 1946. So, both Billie Holiday and Frank Sinatra have sung this classic song.
+The capital city of Spain is Madrid.
 
-Real time: 13.48s
-GPU Load (max): 33.0%
-GPU Memory (max): 5399552 KB
+Real time: 2.25s
+GPU Load (max): 38.0%
+VRAM (max): 5518336 KB

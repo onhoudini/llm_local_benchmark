@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 4
-Pergunta: statue coming out of the ground in washington dc
+Pergunta: What is the largest ocean on Earth?
 
 Resposta:
-statue of liberty
+Pacific Ocean.
 
-Real time: 1.37s
-GPU Load (max): 35.0%
-GPU Memory (max): 5407744 KB
+Real time: 1.33s
+GPU Load (max): 25.0%
+VRAM (max): 5348352 KB

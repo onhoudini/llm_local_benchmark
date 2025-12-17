@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 38
-Pergunta: who sings i got you under my skin
+Pergunta: What is the capital city of Spain?
 
 Resposta:
-The song "I Got You Under My Skin" was originally sung by Frank Sinatra. However, it has been covered by many other artists over the years, including Ella Fitzgerald and Willie Nelson. The song was written by Cole Porter in 1936 for the musical "Kiss Me, Kate."
+Madrid
 
-Real time: 12.63s
-GPU Load (max): 37.0%
-GPU Memory (max): 5408768 KB
+Real time: 0.80s
+GPU Load (max): 25.0%
+VRAM (max): 5487616 KB

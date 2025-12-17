@@ -1,13 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 27
-Pergunta: in humans what determines the gender of the offspring
+Pergunta: How many bones are there in the adult human body?
 
 Resposta:
-X and Y chromosomes
+There are 206 bones in the adult human body.
 
-X chromosome is female determining and Y chromosome is male determining.
-
-Real time: 5.22s
-GPU Load (max): 36.0%
-GPU Memory (max): 5403648 KB
+Real time: 3.10s
+GPU Load (max): 43.0%
+VRAM (max): 5316608 KB

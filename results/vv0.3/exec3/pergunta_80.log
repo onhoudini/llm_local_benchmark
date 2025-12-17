@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 3
 Pergunta ID: 80
-Pergunta: where do we find globular clusters in the galaxy
+Pergunta: What is the chemical symbol for chlorine?
 
 Resposta:
-Globular clusters are found in the halo of a galaxy, including our own Milky Way. They are ancient collections of stars that orbit the galactic center. These clusters are spherical in shape and contain tens of thousands to over a million stars. Some of the most famous globular clusters in the Milky Way can be observed with the naked eye under dark skies, such as Omega Centauri and 47 Tucanae. However, many more can be seen using telescopes.
+Cl (Chlorine)
 
-Real time: 19.33s
-GPU Load (max): 41.0%
-GPU Memory (max): 5408768 KB
+Real time: 1.77s
+GPU Load (max): 38.0%
+VRAM (max): 5490688 KB

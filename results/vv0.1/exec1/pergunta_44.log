@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 44
-Pergunta: who sings now that we have love what are we going to do with it
+Pergunta: What is the chemical symbol for sodium?
 
 Resposta:
-Huey Lewis and the News
+The chemical symbol for sodium is Na.
 
-Real time: 2.19s
-GPU Load (max): 34.0%
-GPU Memory (max): 5423104 KB
+Real time: 2.33s
+GPU Load (max): 36.0%
+VRAM (max): 5347328 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 3
 Pergunta ID: 8
-Pergunta: where was the church of latter day saints founded
+Pergunta: How many days are there in a week?
 
 Resposta:
-The Church of Jesus Christ of Latter-day Saints, often informally referred to as the Mormon Church, was founded in New York, United States. Specifically, it was organized on April 6, 1830, in Fayette, Seneca County, New York. Joseph Smith, Jr., who claimed to have received gold plates containing sacred texts from an angel, served as the first president of the church. The church's headquarters are currently located in Salt Lake City, Utah.
+There are 7 days in a week.
 
-Real time: 19.64s
-GPU Load (max): 41.0%
-GPU Memory (max): 5409792 KB
+Real time: 2.46s
+GPU Load (max): 39.0%
+VRAM (max): 5490688 KB

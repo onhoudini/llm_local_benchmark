@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 2
 Pergunta ID: 22
-Pergunta: who sang vande maataram in 1896 congress session
+Pergunta: What is the capital city of Italy?
 
 Resposta:
-Vande Mataram, a song from Bankim Chandra Chattopadhyay's novel "Anandamath," was first sung as a hymn during the 1896 Indian National Congress session. However, it is important to note that no specific individual artist or singer is credited with singing Vande Mataram at this congress session. The song was chanted collectively by the attendees as a form of protest against British rule and as an expression of their nationalistic sentiments.
+The capital city of Italy is Rome. However, it's important to note that while Rome is the political heart of the country, it's not where all government functions take place. The Italian Parliament and the Italian Government offices are located in Rome, but the President of the Italian Republic resides in the Quirinal Palace in Rome, but works in the nearby Palazzo Chigi in Rome as his office. The Constitutional Court and the Council of State have their seats in Florence and Rome respectively. So while Rome is the de facto capital city, it's not entirely accurate to say that all government functions take place there
 
-Real time: 18.15s
-GPU Load (max): 44.0%
-GPU Memory (max): 5410816 KB
+Real time: 25.20s
+GPU Load (max): 28.0%
+VRAM (max): 5504000 KB

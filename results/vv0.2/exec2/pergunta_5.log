@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 2
 Pergunta ID: 5
-Pergunta: field hockey is the national sport of which country
+Pergunta: What gas do humans need to breathe to survive?
 
 Resposta:
-The national sport of Pakistan is field hockey. Field hockey is a popular sport in several countries, but it holds a special place in Pakistani culture. The country has a rich history in field hockey and has produced many world-class players. Pakistan's national team has won the Olympic gold medal in field hockey three times (1960, 1984, and 1992) and numerous other international titles.
+Humans need to breathe in air that contains oxygen to survive. The process of breathing in this oxygen and exhaling carbon dioxide is called respiration. On average, adults require about 25,900 parts per million (ppm) of oxygen in the air they breathe, which makes up approximately 21% of the total air volume.
 
-Real time: 15.39s
-GPU Load (max): 41.0%
-GPU Memory (max): 5409792 KB
+Real time: 15.11s
+GPU Load (max): 36.0%
+VRAM (max): 5504000 KB

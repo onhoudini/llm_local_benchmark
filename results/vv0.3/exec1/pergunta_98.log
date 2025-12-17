@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 1
 Pergunta ID: 98
-Pergunta: an act of the legislature directly punishing a person or group is referred to as a​
+Pergunta: What organ is responsible for vision?
 
 Resposta:
-criminal law or penal statute. These terms refer to laws that are enforced by the government and can result in penalties such as fines, imprisonment, or probation for individuals who violate them. It's important to note that these laws are typically designed to protect society and maintain order.
+The eye is the organ responsible for vision. It captures light and converts it into electrical signals that are sent to the brain, where they are interpreted as images.
 
-Real time: 12.13s
-GPU Load (max): 27.0%
-GPU Memory (max): 5399552 KB
+Real time: 6.77s
+GPU Load (max): 38.0%
+VRAM (max): 5491712 KB

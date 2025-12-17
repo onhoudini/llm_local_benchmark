@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 1
 Pergunta ID: 25
-Pergunta: who makes the most tires in the world
+Pergunta: Which planet is closest to the Sun?
 
 Resposta:
-The company that produces the most tires in the world is currently Bridgestone Corporation, a Japanese multinational auto and truck parts manufacturer. However, other major tire manufacturers include Michelin (French), Goodyear Tire & Rubber Company (American), and Continental AG (German). These companies collectively dominate the global tire market.
+Mercury
 
-Real time: 13.44s
-GPU Load (max): 41.0%
-GPU Memory (max): 5404672 KB
+Real time: 1.08s
+GPU Load (max): 40.0%
+VRAM (max): 5501952 KB

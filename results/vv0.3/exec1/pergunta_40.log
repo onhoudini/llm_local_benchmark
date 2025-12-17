@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 1
 Pergunta ID: 40
-Pergunta: a management information system is which type of system
+Pergunta: What metal is liquid at room temperature?
 
 Resposta:
-A management information system (MIS) is a type of decision-support system that provides information to help managers, or those in management roles, make informed decisions. It's designed to collect, process, store, and deliver data that is relevant to the organization's operations and goals. This can include financial reports, sales figures, production data, and more. MIS is an essential tool for effective management and strategic planning in modern businesses.
+Mercury (Hg) is the only metal that is liquid at room temperature. However, it's important to note that due to its toxicity and environmental concerns, it should be handled with extreme care.
 
-Real time: 16.69s
-GPU Load (max): 40.0%
-GPU Memory (max): 5399552 KB
+Real time: 8.51s
+GPU Load (max): 39.0%
+VRAM (max): 5499904 KB

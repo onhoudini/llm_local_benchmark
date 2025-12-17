@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 3
 Pergunta ID: 31
-Pergunta: what time period is a league of their own
+Pergunta: What is the smallest prime number?
 
 Resposta:
-"A League of Their Own" is a 1992 American comedy-drama film directed by Penny Marshall. The story is based on the real-life All-American Girls Professional Baseball League (AAGPBL), which existed from 1943 to 1954. The film follows two sisters who join the league during World War II when many baseball players were drafted into the military, and explores themes of gender roles, sisterhood, and teamwork. So, the time period for "A League of Their Own" is from around 1943 to 1945, although the film was released in 1992.
+The smallest prime number is 2. Any number greater than 1 that has only two distinct positive divisors, 1 and itself, is a prime number. So, the first prime number is 2.
 
-Real time: 24.19s
-GPU Load (max): 33.0%
-GPU Memory (max): 5411840 KB
+Real time: 9.03s
+GPU Load (max): 38.0%
+VRAM (max): 5500928 KB

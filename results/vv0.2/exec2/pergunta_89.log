@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 2
 Pergunta ID: 89
-Pergunta: who was fighting in the battle of amiens
+Pergunta: What planet is known as the Morning Star?
 
 Resposta:
-The Battle of Amiens, also known as the Hundred Days Offensive or the Second Battle of the Somme, took place from August 8 to 11, 1918, during World War I. It was primarily fought between the British Expeditionary Force (BEF), under the command of General Sir Douglas Haig, and the German Army, under the command of General Erich Ludendorff. Other Allied forces, including the French, Canadian, Australian, and New Zealand armies, also participated in the battle. The Battle of Amiens is notable for being the largest single-day advance by the Allied forces since the beginning of the war and a turning point in the war's outcome.
+The planet Venus is referred to as the "Morning Star" when it appears in the eastern sky before sunrise. This is because, from Earth's perspective, Venus can be seen shining brightly just before sunrise, heralding the dawn. Similarly, Venus is also known as the "Evening Star" when it appears in the western sky after sunset.
 
-Real time: 25.35s
-GPU Load (max): 41.0%
-GPU Memory (max): 5412864 KB
+Real time: 16.51s
+GPU Load (max): 28.0%
+VRAM (max): 5500928 KB

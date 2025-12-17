@@ -1,15 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 2
 Pergunta ID: 43
-Pergunta: where was the eastern front located in ww1
+Pergunta: What is the main ingredient in bread?
 
 Resposta:
-The Eastern Front during World War I referred to the theater of war between the Russian Empire and the Central Powers (primarily Germany, Austria-Hungary, and Bulgaria) in Eastern Europe. It extended from the Baltic Sea in the north to the Black Sea in the south, and from the Carpathian Mountains in the west to the Caucasus Mountains in the east.
+The main ingredient in bread is flour, typically made from wheat, but other types of flour such as rice or corn can also be used. Other essential ingredients include water, yeast or baking powder for leavening, salt, and sometimes sugar. However, the main structure of the bread comes from the gluten formed when flour is mixed with water and kneaded.
 
-The major battles on the Eastern Front included the Galician Offensive (1914), the Brusilov Offensive (1916), and the Battle of Riga (1917). The front line shifted frequently throughout the war, with significant territorial gains and losses for both sides.
-
-It's important to note that the Eastern Front was a much larger theater of war than the Western Front, which is often more well-known due to its impact on world history through the involvement of France, Britain, and the United States. However, the Eastern Front saw some of the bloodiest battles and highest casualty rates of World War I.
-
-Real time: 36.90s
-GPU Load (max): 30.0%
-GPU Memory (max): 5409792 KB
+Real time: 15.42s
+GPU Load (max): 31.0%
+VRAM (max): 5500928 KB

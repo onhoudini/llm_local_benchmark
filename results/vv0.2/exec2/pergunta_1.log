@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 2
 Pergunta ID: 1
-Pergunta: the last time la dodgers won the world series
+Pergunta: What is the capital city of France?
 
 Resposta:
-The Los Angeles Dodgers last won the World Series in 2020. They defeated the Tampa Bay Rays in six games to claim their first championship since 1988.
+The capital city of France is Paris.
 
-Real time: 7.36s
-GPU Load (max): 47.0%
-GPU Memory (max): 5409792 KB
+Real time: 2.53s
+GPU Load (max): 45.0%
+VRAM (max): 5505024 KB

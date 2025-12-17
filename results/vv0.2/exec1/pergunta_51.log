@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 1
 Pergunta ID: 51
-Pergunta: who is the main character in the labyrinth
+Pergunta: What is the capital city of Russia?
 
 Resposta:
-The main character in "The Labyrinth" is Sarah, a young girl who finds herself in an enchanted labyrinth after making a wish to save her baby brother Toby from the Goblin King. She embarks on a journey through the labyrinth to reach the center and rescue Toby before the deadline given by the Goblin King expires.
+The capital city of Russia is Moscow.
 
-Real time: 13.29s
-GPU Load (max): 46.0%
-GPU Memory (max): 5399552 KB
+Real time: 2.21s
+GPU Load (max): 23.0%
+VRAM (max): 5518336 KB

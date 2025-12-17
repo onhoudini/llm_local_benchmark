@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 12
-Pergunta: who is the security general of the un
+Pergunta: How many letters are there in the English alphabet?
 
 Resposta:
-unknown
+There are 26 letters in the English alphabet.
 
-Real time: 0.80s
-GPU Load (max): 37.0%
-GPU Memory (max): 5403648 KB
+Real time: 2.85s
+GPU Load (max): 44.0%
+VRAM (max): 5319680 KB

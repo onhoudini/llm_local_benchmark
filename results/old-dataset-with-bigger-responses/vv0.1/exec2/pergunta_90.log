@@ -1,0 +1,11 @@
+Modelo: mistral_v0.1
+Execução: 2
+Pergunta ID: 90
+Pergunta: what are the three types of wind turbines
+
+Resposta:
+Horizontal-axis wind turbines, Vertical-axis wind turbines, Hybrid wind turbines.
+
+Real time: 5.30s
+GPU Load (max): 39.0%
+VRAM (max): 5558272 KB

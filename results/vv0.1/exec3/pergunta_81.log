@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 81
-Pergunta: who is going to the orange bowl this year
+Pergunta: What is the capital city of Greece?
 
 Resposta:
-Miami Hurricanes
+The capital city of Greece is Athens.
 
-Real time: 1.37s
-GPU Load (max): 40.0%
-GPU Memory (max): 5402624 KB
+Real time: 2.32s
+GPU Load (max): 34.0%
+VRAM (max): 5316608 KB

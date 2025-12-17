@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 1
 Pergunta ID: 97
-Pergunta: who sings a white sport coat and a pink carnation
+Pergunta: How many bits are in one byte?
 
 Resposta:
-The song "A White Sport Coat (and a Pink Carnation)" is by Marty Robbins, an American country music singer. The song was released in 1957 and became one of his most popular hits. It tells the story of a man who meets a woman at a dance while wearing a white sport coat and a pink carnation in his lapel.
+8 bits
 
-Real time: 14.91s
-GPU Load (max): 32.0%
-GPU Memory (max): 5399552 KB
+Real time: 1.36s
+GPU Load (max): 39.0%
+VRAM (max): 5491712 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 3
 Pergunta ID: 66
-Pergunta: who played the mom in the home alone movies
+Pergunta: What is the capital city of Portugal?
 
 Resposta:
-The character of the mother in the Home Alone movies was named Pam Buxton, and she was portrayed by actress Catherine O'Hara. However, it's important to note that her character only appeared in the first movie, as she passed away in a car accident before the events of the second film. In the sequels, the role of Kevin McCallister's mother was played by Hillary Wolf as an adult and Kieran Culkin as a child (Kevin's older brother Buzz).
+Lisbon (Lisboa in Portuguese) is the capital city of Portugal. It's a beautiful and vibrant city with rich history, delicious food, and stunning architecture. Enjoy your visit!
 
-Real time: 19.95s
-GPU Load (max): 35.0%
-GPU Memory (max): 5408768 KB
+Real time: 8.25s
+GPU Load (max): 31.0%
+VRAM (max): 5490688 KB

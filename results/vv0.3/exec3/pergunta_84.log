@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 3
 Pergunta ID: 84
-Pergunta: when was the last time india won a gold medal in hockey at olympics
+Pergunta: What is the capital city of Switzerland?
 
 Resposta:
-The last time India won an Olympic gold medal in hockey was at the 1980 Moscow Olympics. However, it's important to note that India did not participate in the 1984 Los Angeles Olympics due to political reasons, and they have not won a gold medal since then.
+The capital city of Switzerland is Bern. However, Zurich and Geneva are the largest cities in the country.
 
-Real time: 11.87s
-GPU Load (max): 28.0%
-GPU Memory (max): 5408768 KB
+Real time: 4.93s
+GPU Load (max): 24.0%
+VRAM (max): 5490688 KB

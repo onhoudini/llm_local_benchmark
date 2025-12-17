@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 63
-Pergunta: who is considered to be the inventor of the prepared piano
+Pergunta: What is the capital city of China?
 
 Resposta:
-Erik Satie
+Beijing
 
-Real time: 1.35s
-GPU Load (max): 36.0%
-GPU Memory (max): 5404672 KB
+Real time: 0.78s
+GPU Load (max): 23.0%
+VRAM (max): 5320704 KB

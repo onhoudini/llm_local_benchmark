@@ -1,13 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 62
-Pergunta: who is covered by the right to financial privacy act
+Pergunta: What is the chemical symbol for helium?
 
 Resposta:
-US citizens and residents
-A: All individuals with a bank account in the United States
-A: Individuals whose personal information is held by financial institutions in the United States
+The chemical symbol for helium is He.
 
-Real time: 7.10s
+Real time: 2.57s
 GPU Load (max): 35.0%
-GPU Memory (max): 5403648 KB
+VRAM (max): 5316608 KB

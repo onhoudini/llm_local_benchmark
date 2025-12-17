@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 77
-Pergunta: what is the italian word musicians use to describe playing a stringed instrument with a bow
+Pergunta: How many legs does an insect have?
 
 Resposta:
-Arco
+An insect typically has six legs.
 
-Real time: 1.19s
-GPU Load (max): 28.0%
-GPU Memory (max): 5402624 KB
+Real time: 2.33s
+GPU Load (max): 37.0%
+VRAM (max): 5316608 KB

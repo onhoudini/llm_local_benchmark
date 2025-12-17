@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 61
-Pergunta: when was the last time the detroit tigers went to the world series
+Pergunta: What instrument is used to measure temperature?
 
 Resposta:
-1984
+The most common instruments used to measure temperature are thermometers.
 
-Real time: 1.90s
-GPU Load (max): 44.0%
-GPU Memory (max): 5403648 KB
+Real time: 2.99s
+GPU Load (max): 43.0%
+VRAM (max): 5315584 KB

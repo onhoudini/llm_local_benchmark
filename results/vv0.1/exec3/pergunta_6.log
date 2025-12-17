@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 6
-Pergunta: who governs in america’s representative democracy (republic) system
+Pergunta: What is the chemical symbol for water?
 
 Resposta:
-the people, through their elected representatives in congress and the president.
+The chemical symbol for water is H2O.
 
-Real time: 3.33s
+Real time: 2.43s
 GPU Load (max): 37.0%
-GPU Memory (max): 5403648 KB
+VRAM (max): 5319680 KB

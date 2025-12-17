@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 55
-Pergunta: which branch of the us government makes federal laws
+Pergunta: What vitamin is produced when skin is exposed to sunlight?
 
 Resposta:
-Congress
+Vitamin D
 
-Real time: 0.79s
-GPU Load (max): 39.0%
-GPU Memory (max): 5404672 KB
+Real time: 1.46s
+GPU Load (max): 30.0%
+VRAM (max): 5321728 KB

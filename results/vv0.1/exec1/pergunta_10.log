@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 10
-Pergunta: who is the nationalist leader associated with the american revolution
+Pergunta: What is the tallest mountain on Earth?
 
 Resposta:
-George Washington
+The tallest mountain on Earth is Mount Everest, which stands at 8,848 meters (29,029 feet) above sea level.
 
-Real time: 1.46s
-GPU Load (max): 36.0%
-GPU Memory (max): 5411840 KB
+Real time: 6.74s
+GPU Load (max): 35.0%
+VRAM (max): 5363712 KB

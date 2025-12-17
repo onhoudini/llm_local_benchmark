@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 53
-Pergunta: who came up with the name rock and roll
+Pergunta: How many strings does a standard violin have?
 
 Resposta:
-Alan Freed
+A standard violin has four strings.
 
-Real time: 1.23s
-GPU Load (max): 22.0%
-GPU Memory (max): 5421056 KB
+Real time: 2.19s
+GPU Load (max): 48.0%
+VRAM (max): 5347328 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 27
-Pergunta: in humans what determines the gender of the offspring
+Pergunta: How many bones are there in the adult human body?
 
 Resposta:
-In humans, the gender of the offspring is determined by the sex chromosomes. Normally, human cells have 23 pairs of chromosomes, for a total of 46 chromosomes. One pair of these chromosomes are the sex chromosomes, and they can be either X or Y. Females have two X chromosomes (XX), while males have one X and one Y chromosome (XY). During fertilization, if an X-bearing sperm fertilizes an egg, the resulting offspring will be a female (XX). If a Y-bearing sperm fertilizes an egg, the resulting offspring will be a male (XY).
+There are 206 bones in an average adult human body. However, at birth, a newborn has about 270 bones, some of which fuse together as the child grows.
 
-Real time: 26.89s
-GPU Load (max): 41.0%
-GPU Memory (max): 5408768 KB
+Real time: 8.24s
+GPU Load (max): 39.0%
+VRAM (max): 5488640 KB

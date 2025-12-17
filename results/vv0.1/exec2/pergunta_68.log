@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 68
-Pergunta: what age do you go to school in japan
+Pergunta: What is the chemical symbol for silver?
 
 Resposta:
-6
+The chemical symbol for silver is Ag.
 
-Real time: 1.06s
-GPU Load (max): 36.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.17s
+GPU Load (max): 26.0%
+VRAM (max): 5321728 KB

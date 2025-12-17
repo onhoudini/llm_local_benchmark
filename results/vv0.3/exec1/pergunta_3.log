@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 1
 Pergunta ID: 3
-Pergunta: where does the movie the sound of music take place
+Pergunta: What planet is known as the Red Planet?
 
 Resposta:
-The movie "The Sound of Music" takes place in Austria, specifically in Salzburg during the late 1930s.
+Mars
 
-Real time: 5.65s
-GPU Load (max): 35.0%
-GPU Memory (max): 5413888 KB
+Real time: 1.07s
+GPU Load (max): 40.0%
+VRAM (max): 5514240 KB

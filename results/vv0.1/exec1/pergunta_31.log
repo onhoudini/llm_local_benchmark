@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 31
-Pergunta: what time period is a league of their own
+Pergunta: What is the smallest prime number?
 
 Resposta:
-1989-2004
+The smallest prime number is 2.
 
-Real time: 2.66s
-GPU Load (max): 35.0%
-GPU Memory (max): 5438464 KB
+Real time: 2.18s
+GPU Load (max): 43.0%
+VRAM (max): 5347328 KB

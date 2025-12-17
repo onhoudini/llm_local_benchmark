@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 67
-Pergunta: what do you call a vest in the uk
+Pergunta: What organ is responsible for filtering blood in humans?
 
 Resposta:
-waistcoat
+The kidneys are responsible for filtering blood in humans.
 
-Real time: 1.22s
-GPU Load (max): 36.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.86s
+GPU Load (max): 23.0%
+VRAM (max): 5321728 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 38
-Pergunta: who sings i got you under my skin
+Pergunta: What is the capital city of Spain?
 
 Resposta:
-Fred Astaire
+Madrid
 
-Real time: 1.24s
+Real time: 0.79s
 GPU Load (max): 36.0%
-GPU Memory (max): 5403648 KB
+VRAM (max): 5315584 KB

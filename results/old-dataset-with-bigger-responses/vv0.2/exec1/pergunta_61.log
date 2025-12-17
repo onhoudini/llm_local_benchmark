@@ -1,0 +1,11 @@
+Modelo: mistral_v0.2
+Execução: 1
+Pergunta ID: 61
+Pergunta: when was the last time the detroit tigers went to the world series
+
+Resposta:
+The Detroit Tigers last appeared in the World Series in 2012. They lost to the San Francisco Giants in a seven-game series.
+
+Real time: 6.64s
+GPU Load (max): 50.0%
+VRAM (max): 5531648 KB

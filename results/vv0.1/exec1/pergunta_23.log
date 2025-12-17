@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 23
-Pergunta: who were the sponsor of the icc world cup when it was hosted outside england for the first time
+Pergunta: How many sides does a triangle have?
 
 Resposta:
-pakistan
+A triangle has 3 sides.
 
-Real time: 1.60s
-GPU Load (max): 43.0%
-GPU Memory (max): 5429248 KB
+Real time: 2.01s
+GPU Load (max): 28.0%
+VRAM (max): 5347328 KB

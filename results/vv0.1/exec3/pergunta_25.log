@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 25
-Pergunta: who makes the most tires in the world
+Pergunta: Which planet is closest to the Sun?
 
 Resposta:
-Goodyear Tire & Rubber Company
+Mercury
 
-Real time: 2.20s
-GPU Load (max): 28.0%
-GPU Memory (max): 5403648 KB
+Real time: 1.21s
+GPU Load (max): 39.0%
+VRAM (max): 5313536 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 1
 Pergunta ID: 61
-Pergunta: when was the last time the detroit tigers went to the world series
+Pergunta: What instrument is used to measure temperature?
 
 Resposta:
-The Detroit Tigers last appeared in the World Series in 2012. They lost to the San Francisco Giants in a seven-game series.
+An instrument used to measure temperature is called a thermometer. There are various types of thermometers, such as mercury thermometers, digital thermometers, and infrared thermometers, among others. Each type measures temperature differently based on the physical properties of the substance being measured or the radiation emitted by an object.
 
-Real time: 6.20s
-GPU Load (max): 47.0%
-GPU Memory (max): 5399552 KB
+Real time: 14.11s
+GPU Load (max): 39.0%
+VRAM (max): 5515264 KB

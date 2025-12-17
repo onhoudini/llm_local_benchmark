@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 40
-Pergunta: a management information system is which type of system
+Pergunta: What metal is liquid at room temperature?
 
 Resposta:
-Transaction processing system
+Mercury is the only metal that is liquid at room temperature.
 
-Real time: 1.21s
-GPU Load (max): 34.0%
-GPU Memory (max): 5403648 KB
+Real time: 3.02s
+GPU Load (max): 37.0%
+VRAM (max): 5316608 KB

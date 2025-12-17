@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 59
-Pergunta: who sang out of my head over you
+Pergunta: What is the smallest continent by land area?
 
 Resposta:
-The song "Out of My Head (Over You)" is by the American singer Alicia Keys, featuring rapper and singer John Legend. It was released in 2016 as part of her sixth studio album, "Here."
+The smallest continent by land area is Australia.
 
-Real time: 9.49s
-GPU Load (max): 40.0%
-GPU Memory (max): 5409792 KB
+Real time: 2.45s
+GPU Load (max): 31.0%
+VRAM (max): 5490688 KB

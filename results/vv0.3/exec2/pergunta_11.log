@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 11
-Pergunta: what color is the president of south koreas house
+Pergunta: What is the capital city of Japan?
 
 Resposta:
-The President of South Korea does not live in a house, but in the Blue House, also known as Cheong Wa Dae. However, the color you're asking about isn't directly applicable to the building itself, as it's primarily white with blue trim. But if you're referring to the dominant color, it would be blue.
+Tokyo is not the capital city of Japan. The capital city of Japan is Tokyo, but its administrative capital is Tokyo Metropolis, while the de jure (legal) capital is Kyoto, and the de facto (actual) capital is Tokyo. However, for practical purposes, Tokyo is often considered the capital of Japan.
 
-Real time: 13.66s
-GPU Load (max): 41.0%
-GPU Memory (max): 5409792 KB
+Real time: 12.78s
+GPU Load (max): 25.0%
+VRAM (max): 5492736 KB

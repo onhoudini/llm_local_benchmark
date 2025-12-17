@@ -14,19 +14,17 @@ except ImportError:
     print("Instale GPUtil: pip install gputil")
     sys.exit(1)
 
-DATASET_PATH = Path.home() / "Documentos/pesquisa/ollama-test/input/NQ-open.efficientqa.dev.1.1.sample.jsonl"
+DATASET_PATH = Path.home() / "Documentos/pesquisa/ollama-test/input/QA.jsonl"
 RESULTS_DIR = Path.home() / "Documentos/pesquisa/ollama-test/results"
 OLLAMA_API = "http://localhost:11434/api/generate"
 
 MODELS = ["mistral_v0.3"]
 NUM_EXECUTIONS = 3
-# MODELS = ["mistral_v0.1", "mistral_v0.2", "mistral_v0.3"]
 
 def benchmark_question(model, question):
     start_time = time.time()
-    gpu_max = 0
-    gpu_mem_max = 0
-    ram_max = 0
+    gpu_load_max = 0
+    vram_max = 0
     
     try:
         prompt = f"Q: {question}\nA:"
@@ -47,18 +45,10 @@ def benchmark_question(model, question):
             try:
                 gpus = GPUtil.getGPUs()
                 for gpu in gpus:
-                    if gpu.load * 100 > gpu_max:
-                        gpu_max = gpu.load * 100
-                    if gpu.memoryUsed > gpu_mem_max:
-                        gpu_mem_max = gpu.memoryUsed
-                
-                try:
-                    proc = psutil.Process(response.pid)
-                    ram = proc.memory_info().rss // 1024
-                    if ram > ram_max:
-                        ram_max = ram
-                except (psutil.NoSuchProcess, psutil.AccessDenied):
-                    pass
+                    if gpu.load * 100 > gpu_load_max:
+                        gpu_load_max = gpu.load * 100
+                    if gpu.memoryUsed > vram_max:
+                        vram_max = gpu.memoryUsed
                 
             except Exception as e:
                 pass
@@ -70,7 +60,7 @@ def benchmark_question(model, question):
         resposta = result.get("response", "").strip()
         elapsed = time.time() - start_time
         
-        return resposta, elapsed, int(gpu_max), int(gpu_mem_max * 1024)
+        return resposta, elapsed, int(gpu_load_max), int(vram_max * 1024)
     
     except Exception as e:
         return f"Erro: {str(e)}", time.time() - start_time, 0, 0
@@ -91,7 +81,7 @@ def run_benchmark_for_model_execution(model, execution_number):
         writer = csv.writer(csvfile)
         writer.writerow([
             "modelo", "execucao", "pergunta_id", "pergunta", "resposta",
-            "real_time_sec", "gpu_percent", "gpu_mem_kb"
+            "real_time_sec", "gpu_percent", "vram_kb"
         ])
         
         with open(DATASET_PATH, "r", encoding="utf-8") as f:
@@ -101,12 +91,12 @@ def run_benchmark_for_model_execution(model, execution_number):
                 
                 print(f"[{model} - exec{execution_number}] Pergunta {q_id}: {pergunta[:50]}...")
                 
-                resposta, elapsed, gpu, gpu_mem = benchmark_question(model, pergunta)
+                resposta, elapsed, gpu, vram = benchmark_question(model, pergunta)
                 resposta_clean = resposta.replace("\n", " ").replace(",", " ")
                 
                 writer.writerow([
                     model, execution_number, q_id, pergunta, resposta_clean,
-                    elapsed, gpu, gpu_mem
+                    elapsed, gpu, vram
                 ])
                 
                 log_path = out_dir / f"pergunta_{q_id}.log"
@@ -119,7 +109,7 @@ def run_benchmark_for_model_execution(model, execution_number):
                     log.write(resposta + "\n\n")
                     log.write(f"Real time: {elapsed:.2f}s\n")
                     log.write(f"GPU Load (max): {gpu:.1f}%\n")
-                    log.write(f"GPU Memory (max): {gpu_mem} KB\n")
+                    log.write(f"VRAM (max): {vram} KB\n")
     
     print(f"✓ Resultados salvos em: {out_dir}\n")
 

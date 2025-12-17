@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 2
 Pergunta ID: 9
-Pergunta: who os the father of bridget jones baby
+Pergunta: What animal is known as the king of the jungle?
 
 Resposta:
-In the novel "Bridget Jones's Diary" by Helen Fielding and its film adaptation, Bridget Jones's baby's father is revealed to be Mark Darcy (played by Colin Firth in the movie). However, in a later film "Bridget Jones's Baby," released in 2016, the baby's father is revealed to be both Mark Darcy and Daniel Cleaver (played by Hugh Grant), as Bridget becomes pregnant through an affair with each man without knowing which one was the father at the time.
+The term "king of the jungle" is a metaphor often used to refer to powerful and majestic animals that live in the jungle. However, there isn't one specific animal that holds this title as it varies depending on cultural contexts and folklore. Some commonly mentioned animals include lions, tigers, elephants, gorillas, and leopards due to their strength, size, or dominance in their respective habitats.
 
-Real time: 20.13s
-GPU Load (max): 46.0%
-GPU Memory (max): 5409792 KB
+Real time: 19.55s
+GPU Load (max): 44.0%
+VRAM (max): 5504000 KB

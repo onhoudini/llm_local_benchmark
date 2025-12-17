@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 3
 Pergunta ID: 89
-Pergunta: who was fighting in the battle of amiens
+Pergunta: What planet is known as the Morning Star?
 
 Resposta:
-The Battle of Amiens, which took place from August 8 to September 11, 1918 during World War I, was primarily fought between the Allied Powers (mainly British Empire forces, French Army, and U.S. Army) against the German Empire. The battle is significant because it marked a turning point in the war on the Western Front, with the Allies launching a successful offensive that led to a rapid advance towards the German frontier.
+Venus is known as the Morning Star because it can be seen in the eastern sky before sunrise. However, it's also called the Evening Star when it appears in the western sky after sunset, but this is due to its orbit around the Sun and not a different identity. The same planet is being observed under different phases of its orbit.
 
-Real time: 18.26s
-GPU Load (max): 41.0%
-GPU Memory (max): 5408768 KB
+Real time: 13.76s
+GPU Load (max): 32.0%
+VRAM (max): 5490688 KB

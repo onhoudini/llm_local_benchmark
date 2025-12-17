@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 2
 Pergunta ID: 87
-Pergunta: name of the bird in the lion king
+Pergunta: How many chambers does the human heart have?
 
 Resposta:
-In Disney's "The Lion King," there isn't a bird named specifically as a character that interacts with lions. However, there are several birds that make appearances throughout the film. For instance, you can see various species of birds flying overhead during the opening sequence when Simba is presented to the animals as king, and Rafiki the mandrill often carries a hornbill on his head as part of his headdress. But no bird character has a significant role in the storyline like Mufasa, Scar, Simba, or Nala.
+The human heart has four chambers: two atria on the top and two ventricles on the bottom. So, in total, the heart has four chambers.
 
-Real time: 19.65s
-GPU Load (max): 39.0%
-GPU Memory (max): 5412864 KB
+Real time: 7.64s
+GPU Load (max): 32.0%
+VRAM (max): 5500928 KB

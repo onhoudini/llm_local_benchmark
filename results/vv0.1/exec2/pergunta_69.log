@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 69
-Pergunta: when did indiana jones and the last crusade come out
+Pergunta: What is the capital city of Norway?
 
 Resposta:
-1989
+The capital city of Norway is Oslo.
 
-Real time: 1.78s
-GPU Load (max): 40.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.31s
+GPU Load (max): 27.0%
+VRAM (max): 5321728 KB

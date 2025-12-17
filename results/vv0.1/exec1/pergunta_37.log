@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 37
-Pergunta: who won her first tennis grand slam in 2018
+Pergunta: What is the primary color made by mixing blue and yellow?
 
 Resposta:
-Naomi Ósaka
+Green.
 
-Real time: 2.22s
-GPU Load (max): 51.0%
-GPU Memory (max): 5441536 KB
+Real time: 1.32s
+GPU Load (max): 43.0%
+VRAM (max): 5347328 KB

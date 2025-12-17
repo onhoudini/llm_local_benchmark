@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 3
 Pergunta ID: 100
-Pergunta: what place did jennifer hudson get in american idol
+Pergunta: How many vowels are there in the English alphabet?
 
 Resposta:
-Jennifer Hudson did not compete on American Idol. She is a well-known singer who gained fame after appearing on another reality TV show, "American Dreams" (2002), and later became known for her role in the movie "Dreamgirls" (2006). However, she did make a guest appearance as a mentor on American Idol during its ninth season in 2010.
+There are 5 vowels in the English alphabet: A, E, I, O, U.
 
-Real time: 16.64s
-GPU Load (max): 46.0%
-GPU Memory (max): 5408768 KB
+Real time: 5.01s
+GPU Load (max): 44.0%
+VRAM (max): 5494784 KB

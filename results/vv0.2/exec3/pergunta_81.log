@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 3
 Pergunta ID: 81
-Pergunta: who is going to the orange bowl this year
+Pergunta: What is the capital city of Greece?
 
 Resposta:
-I cannot provide an answer to that question as I don't have access to real-time information or the ability to predict future events. The Orange Bowl is a college football bowl game, and the teams participating in it are determined through various selection processes, such as conference championships and rankings. To find out who is playing in this year's Orange Bowl, you would need to check the official College Football Playoff or Orange Bowl Committee announcements.
+The capital city of Greece is Athens. However, it's important to note that Athens is also the largest city in Greece and has been the historical and cultural heart of the country for many centuries. The administrative and political center of the Greek government is located in Athens, but the official capital designation was moved from Athens to the more central location of Athens-Phaleron in 1834, which is now known as the "Capital Central Greece" or "Temporary Capital." However, in practice and for most purposes, Athens is considered the capital city.
 
-Real time: 15.88s
-GPU Load (max): 26.0%
-GPU Memory (max): 5411840 KB
+Real time: 24.30s
+GPU Load (max): 42.0%
+VRAM (max): 5579776 KB

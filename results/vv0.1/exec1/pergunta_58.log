@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 58
-Pergunta: when do cory and topanga get back together after lauren
+Pergunta: How many teeth does a typical adult human have?
 
 Resposta:
-season 7 episode 10 "The One Where They Get Back Together"
+A typical adult human has 32 teeth.
 
-Real time: 3.76s
-GPU Load (max): 28.0%
-GPU Memory (max): 5421056 KB
+Real time: 2.60s
+GPU Load (max): 23.0%
+VRAM (max): 5347328 KB

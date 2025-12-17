@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 71
-Pergunta: when did the monarchy in england lose their power
+Pergunta: How many sides does a square have?
 
 Resposta:
-1649
+4
 
-Real time: 1.65s
-GPU Load (max): 35.0%
-GPU Memory (max): 5403648 KB
+Real time: 1.20s
+GPU Load (max): 37.0%
+VRAM (max): 5316608 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 2
 Pergunta ID: 20
-Pergunta: who plays the medical examiner on hawaii five-o
+Pergunta: What is the fastest land animal?
 
 Resposta:
-The medical examiner on Hawaii Five-0 is Dr. Max Bergman, who is portrayed by actor Alexander Woo. Dr. Bergman is a recurring character who assists the Hawaii Five-0 task force with their investigations by providing information gleaned from the autopsies of victims.
+The fastest land animal is the cheetah. It can reach top speeds of up to 75 miles per hour (120 kilometers per hour).
 
-Real time: 11.22s
-GPU Load (max): 45.0%
-GPU Memory (max): 5409792 KB
+Real time: 7.03s
+GPU Load (max): 40.0%
+VRAM (max): 5504000 KB

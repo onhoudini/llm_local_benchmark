@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 1
 Pergunta ID: 32
-Pergunta: when was harry potter and the deathly hallows part 2 movie released
+Pergunta: What is the longest river in the world?
 
 Resposta:
-Harry Potter and the Deathly Hallows: Part 2 is a 2011 film. It was released in the United Kingdom on July 15, 2011, and in the United States on July 17, 2011. This final installment of the Harry Potter series brought the magical journey to an end for fans around the world.
+The longest river in the world is the Nile River. It has a total length of approximately 4,135 miles (6,650 kilometers) or 2,515 miles (4,048 kilometers) if only measuring the main stem from its source to its mouth. The Nile flows through eleven countries in Africa: Tanzania, Uganda, Rwanda, Burundi, Democratic Republic of the Congo, Kenya, Ethiopia, Eritrea, South Sudan, Sudan, and Egypt.
 
-Real time: 14.26s
-GPU Load (max): 43.0%
-GPU Memory (max): 5399552 KB
+Real time: 23.60s
+GPU Load (max): 39.0%
+VRAM (max): 5528576 KB

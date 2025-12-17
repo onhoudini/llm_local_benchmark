@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 17
-Pergunta: who wrote i will be home for christmas
+Pergunta: How many hours are there in one day?
 
 Resposta:
-Irving Berlin
+There are 24 hours in one day.
 
-Real time: 1.22s
-GPU Load (max): 35.0%
-GPU Memory (max): 5403648 KB
+Real time: 2.58s
+GPU Load (max): 37.0%
+VRAM (max): 5348352 KB

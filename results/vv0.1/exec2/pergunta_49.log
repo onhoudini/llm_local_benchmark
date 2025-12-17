@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 49
-Pergunta: the federal housing administration (fha) insures lenders against
+Pergunta: What is the chemical symbol for carbon?
 
 Resposta:
-default on mortgages
+The chemical symbol for carbon is C.
 
-Real time: 1.64s
-GPU Load (max): 36.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.15s
+GPU Load (max): 37.0%
+VRAM (max): 5321728 KB

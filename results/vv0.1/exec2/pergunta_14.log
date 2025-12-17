@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 14
-Pergunta: actor who played tommy in terms of endearment
+Pergunta: What is the largest planet in the Solar System?
 
 Resposta:
-Tommy Vercetti
+The largest planet in the Solar System is Jupiter.
 
-Real time: 1.35s
-GPU Load (max): 35.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.70s
+GPU Load (max): 37.0%
+VRAM (max): 5348352 KB

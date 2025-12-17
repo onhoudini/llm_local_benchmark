@@ -1,15 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 3
 Pergunta ID: 21
-Pergunta: which piece of legislation placed the protections in the european convention on human rights
+Pergunta: What organ pumps blood through the human body?
 
 Resposta:
-The European Convention on Human Rights (ECHR) is not a piece of legislation that was placed or enacted in Europe, but rather an international treaty. It was drafted in 1950 and came into force on September 3, 1953. The ECHR aims to protect human rights, including the right to life, freedom from slavery, freedom of thought, conscience and religion, and many other civil, political, economic, social, and cultural rights.
+The heart is the organ that pumps blood throughout the human body. It contracts and pushes blood through the circulatory system, supplying oxygen and nutrients to tissues and organs while removing waste products.
 
-The Convention itself is not a piece of legislation that can be placed or enacted in any particular country, but rather an agreement between its member states to uphold the human rights outlined within it. Each signatory state is responsible for implementing the ECHR into their own legal system. In some European countries, this has been done through constitutional amendments or the adoption of national laws.
-
-For example, in the United Kingdom, the Human Rights Act 1998 was enacted to give effect to the ECHR within the UK's legal system. This legislation places a duty on public authorities in the UK to act in accordance with the Convention rights and allows individuals to bring claims against public authorities for breaches of those rights
-
-Real time: 43.04s
-GPU Load (max): 25.0%
-GPU Memory (max): 5412864 KB
+Real time: 9.35s
+GPU Load (max): 40.0%
+VRAM (max): 5500928 KB

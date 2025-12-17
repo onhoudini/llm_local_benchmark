@@ -40,7 +40,7 @@ def analyze_model_execution(model_path):
     metrics = {
         "time": [],
         "gpu_percent": [],
-        "gpu_mem_kb": []
+        "vram_kb": []
     }
     
     with open(csv_path, "r", encoding="utf-8") as f:
@@ -50,7 +50,7 @@ def analyze_model_execution(model_path):
             resposta = row["resposta"].strip()
             real_time = float(row["real_time_sec"])
             gpu = float(row["gpu_percent"])
-            mem = float(row["gpu_mem_kb"])
+            vram = float(row["vram_kb"])
             
             expected = expected_answers.get(q_id, [])
             is_match = check_answer_match(resposta, expected)
@@ -63,12 +63,12 @@ def analyze_model_execution(model_path):
                 "match": is_match,
                 "time": real_time,
                 "gpu": gpu,
-                "mem": mem
+                "vram": vram
             })
             
             metrics["time"].append(real_time)
             metrics["gpu_percent"].append(gpu)
-            metrics["gpu_mem_kb"].append(mem)
+            metrics["vram_kb"].append(vram)
     
     return results, metrics
 
@@ -110,14 +110,14 @@ def generate_report(model_name, results, metrics):
         report.append(f"Desvio padrão: {statistics.stdev(metrics['gpu_percent']):.1f}%")
     report.append("")
     
-    report.append(f"DESEMPENHO - MEMÓRIA")
+    report.append(f"DESEMPENHO - VRAM")
     report.append(f"-" * 40)
-    mem_mb = [m / 1024 for m in metrics['gpu_mem_kb']]
-    report.append(f"Média: {statistics.mean(mem_mb):.1f} MB")
-    report.append(f"Mediana: {statistics.median(mem_mb):.1f} MB")
-    report.append(f"Min/Max: {min(mem_mb):.1f} MB / {max(mem_mb):.1f} MB")
-    if len(mem_mb) > 1:
-        report.append(f"Desvio padrão: {statistics.stdev(mem_mb):.1f} MB")
+    vram_mb = [v / 1024 for v in metrics['vram_kb']]
+    report.append(f"Média: {statistics.mean(vram_mb):.1f} MB")
+    report.append(f"Mediana: {statistics.median(vram_mb):.1f} MB")
+    report.append(f"Min/Max: {min(vram_mb):.1f} MB / {max(vram_mb):.1f} MB")
+    if len(vram_mb) > 1:
+        report.append(f"Desvio padrão: {statistics.stdev(vram_mb):.1f} MB")
     report.append("")
     
     return "\n".join(report)

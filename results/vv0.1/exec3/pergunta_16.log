@@ -1,20 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 16
-Pergunta: list of longest running tv shows in india
+Pergunta: What is the main language spoken in Brazil?
 
 Resposta:
-1. Mahabharata (1988-1990) - 24 years
-2. Ramayana (1987-1990) - 3 years
-3. Shaktimaal (1996-2007) - 11 years
-4. Kuchisake Onna (1995-2005) - 10 years
-5. Kasam Se Kasam (1998-2004) - 6 years
-6. Hum Tum (2003-2007) - 4 years
-7. Kyunki Saas Bhi Kabhi Bahu Thi (1999-2008) - 9 years
-8. Yeh Hai Mohabbatein (2013-present) - 8 years and counting
-9. Ishqbaaz (2015-present) - 6 years and counting
-10. Kuch Isliye Koi Aaj Kal (2017-present) - 4 years and counting
+Portuguese
 
-Real time: 46.48s
-GPU Load (max): 36.0%
-GPU Memory (max): 5403648 KB
+Real time: 0.93s
+GPU Load (max): 23.0%
+VRAM (max): 5318656 KB

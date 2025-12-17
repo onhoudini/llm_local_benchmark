@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 39
-Pergunta: where did france colonize in the new world
+Pergunta: How many degrees are in a right angle?
 
 Resposta:
-North America, South America, and the Caribbean
+There are 90 degrees in a right angle.
 
-Real time: 2.38s
-GPU Load (max): 37.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.60s
+GPU Load (max): 28.0%
+VRAM (max): 5321728 KB

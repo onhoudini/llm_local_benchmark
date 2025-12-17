@@ -1,0 +1,11 @@
+Modelo: mistral_v0.1
+Execução: 2
+Pergunta ID: 67
+Pergunta: what do you call a vest in the uk
+
+Resposta:
+waistcoat
+
+Real time: 1.25s
+GPU Load (max): 36.0%
+VRAM (max): 5558272 KB

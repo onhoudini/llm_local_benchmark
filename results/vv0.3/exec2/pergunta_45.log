@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 45
-Pergunta: who played apollo creed in the original rocky
+Pergunta: What planet is known for its rings?
 
 Resposta:
-Apollo Creed was played by Carl Weathers in the original Rocky movie. He reprised his role in three more Rocky films, and also appeared as Apollo Creed in a cameo in Rocky Balboa (2006). Michael B. Jordan portrayed a younger version of Apollo Creed in Creed (2015), which is a spin-off of the Rocky series.
+Saturn
 
-Real time: 17.16s
-GPU Load (max): 41.0%
-GPU Memory (max): 5409792 KB
+Real time: 1.05s
+GPU Load (max): 38.0%
+VRAM (max): 5490688 KB

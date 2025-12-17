@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 1
 Pergunta ID: 7
-Pergunta: who is the song you're my best friend about
+Pergunta: What is the square root of 16?
 
 Resposta:
-"You're My Best Friend" is a song by Queen, from their 1976 album "A Night at the Opera." It was written by John Deacon, the bass guitarist of the band. The lyrics express the deep bond and affection between two friends.
+The square root of 16 is 4.
 
-Real time: 10.12s
-GPU Load (max): 46.0%
-GPU Memory (max): 5404672 KB
+Real time: 3.37s
+GPU Load (max): 42.0%
+VRAM (max): 5555200 KB

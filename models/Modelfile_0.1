@@ -1,6 +1,10 @@
 FROM /home/houdini/Documentos/pesquisa/ollama-test/models/mistral-7b-instruct-v0.1.Q8_0.gguf
 
+SYSTEM """Answer questions factually and concisely. If unsure, say "Unknown"."""
+
+TEMPLATE """[INST] Answer directly: {{.Prompt}} [/INST]"""
+
 PARAMETER temperature 0
-PARAMETER num_predict 256
+PARAMETER num_predict 128
 PARAMETER seed 42
 PARAMETER num_gpu -1

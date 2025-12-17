@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 1
 Pergunta ID: 69
-Pergunta: when did indiana jones and the last crusade come out
+Pergunta: What is the capital city of Norway?
 
 Resposta:
-"Indiana Jones and the Last Crusade" was released on May 24, 1989.
+The capital city of Norway is Oslo.
 
-Real time: 5.26s
-GPU Load (max): 30.0%
-GPU Memory (max): 5399552 KB
+Real time: 2.23s
+GPU Load (max): 39.0%
+VRAM (max): 5494784 KB

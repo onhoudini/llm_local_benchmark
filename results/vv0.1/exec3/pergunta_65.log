@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 65
-Pergunta: when did the saskatchewan roughriders last won the grey cup
+Pergunta: How many colors are there in a rainbow?
 
 Resposta:
-2013
+There are 7 colors in a rainbow.
 
-Real time: 1.91s
-GPU Load (max): 37.0%
-GPU Memory (max): 5403648 KB
+Real time: 2.57s
+GPU Load (max): 43.0%
+VRAM (max): 5316608 KB

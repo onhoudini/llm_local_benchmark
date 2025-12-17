@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 5
-Pergunta: field hockey is the national sport of which country
+Pergunta: What gas do humans need to breathe to survive?
 
 Resposta:
-India
+Humans need oxygen to survive.
 
-Real time: 0.80s
-GPU Load (max): 35.0%
-GPU Memory (max): 5404672 KB
+Real time: 2.00s
+GPU Load (max): 28.0%
+VRAM (max): 5348352 KB

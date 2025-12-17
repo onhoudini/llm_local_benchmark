@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 3
 Pergunta ID: 20
-Pergunta: who plays the medical examiner on hawaii five-o
+Pergunta: What is the fastest land animal?
 
 Resposta:
-The character of the Medical Examiner on Hawaii Five-0 is Dr. Max Bergman, and he is portrayed by actor Masi Oka. Masi Oka is a Japanese-American actor, writer, and director, best known for his role as Hiro Nakamura in the television series Heroes. He joined the cast of Hawaii Five-0 in its second season.
+The fastest land animal is the cheetah, which can reach speeds up to 60-70 miles per hour (97-113 kilometers per hour).
 
-Real time: 15.11s
-GPU Load (max): 26.0%
-GPU Memory (max): 5408768 KB
+Real time: 7.42s
+GPU Load (max): 41.0%
+VRAM (max): 5490688 KB

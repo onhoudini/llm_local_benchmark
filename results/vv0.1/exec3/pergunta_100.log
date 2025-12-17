@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 100
-Pergunta: what place did jennifer hudson get in american idol
+Pergunta: How many vowels are there in the English alphabet?
 
 Resposta:
-7th place
+There are 5 vowels in the English alphabet. They are A, E, I, O, and U.
 
-Real time: 1.63s
-GPU Load (max): 45.0%
-GPU Memory (max): 5403648 KB
+Real time: 5.31s
+GPU Load (max): 44.0%
+VRAM (max): 5259264 KB

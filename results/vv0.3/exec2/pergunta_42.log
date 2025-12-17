@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 42
-Pergunta: who went home on the first week of dancing with the stars juniors
+Pergunta: What is the capital city of the United Kingdom?
 
 Resposta:
-The information about the contestants and their elimination on "Dancing with the Stars Juniors" can vary depending on the season. I don't have real-time data, so I can't provide specific details about the first week of a particular season. However, I recommend checking out the official Dancing with the Stars Juniors website or other reliable sources for accurate information about the show's contestants and their elimination order.
+The capital city of the United Kingdom is London.
 
-Real time: 16.91s
-GPU Load (max): 30.0%
-GPU Memory (max): 5408768 KB
+Real time: 2.46s
+GPU Load (max): 35.0%
+VRAM (max): 5488640 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 70
-Pergunta: when does the good witch season 4 come out
+Pergunta: What type of animal is a frog?
 
 Resposta:
-2019-08-07
+A frog is an amphibian.
 
-Real time: 2.66s
-GPU Load (max): 35.0%
-GPU Memory (max): 5416960 KB
+Real time: 2.57s
+GPU Load (max): 44.0%
+VRAM (max): 5347328 KB

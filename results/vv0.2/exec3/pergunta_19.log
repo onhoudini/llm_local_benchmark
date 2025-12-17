@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 3
 Pergunta ID: 19
-Pergunta: when is the draw for the european championships 2020
+Pergunta: What is the currency used in the United States?
 
 Resposta:
-The Euro 2020 group stage draw took place on November 30, 2019, in Bucharest, Romania. However, please note that the tournament was originally scheduled for 2020 but has been postponed until 2021 due to the COVID-19 pandemic.
+The currency used in the United States is the U.S. Dollar (USD).
 
-Real time: 11.98s
-GPU Load (max): 41.0%
-GPU Memory (max): 5411840 KB
+Real time: 4.40s
+GPU Load (max): 39.0%
+VRAM (max): 5500928 KB

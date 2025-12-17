@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 9
-Pergunta: who os the father of bridget jones baby
+Pergunta: What animal is known as the king of the jungle?
 
 Resposta:
-mark darcy
+Lion
 
-Real time: 1.36s
-GPU Load (max): 35.0%
-GPU Memory (max): 5404672 KB
+Real time: 1.18s
+GPU Load (max): 39.0%
+VRAM (max): 5348352 KB

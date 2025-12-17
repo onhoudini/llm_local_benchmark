@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 19
-Pergunta: when is the draw for the european championships 2020
+Pergunta: What is the currency used in the United States?
 
 Resposta:
-The Euro 2020 draw took place on November 30, 2019. However, due to the postponement of the tournament to 2021 because of the COVID-19 pandemic, the actual event will take place from June 11 to July 11, 2021. The draw for the revised schedule has not been announced yet.
+The currency used in the United States is the U.S. Dollar (USD).
 
-Real time: 15.79s
-GPU Load (max): 42.0%
-GPU Memory (max): 5409792 KB
+Real time: 4.06s
+GPU Load (max): 37.0%
+VRAM (max): 5488640 KB

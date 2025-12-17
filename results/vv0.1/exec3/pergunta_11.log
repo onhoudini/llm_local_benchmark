@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 11
-Pergunta: what color is the president of south koreas house
+Pergunta: What is the capital city of Japan?
 
 Resposta:
-White
+The capital city of Japan is Tokyo.
 
-Real time: 0.79s
-GPU Load (max): 26.0%
-GPU Memory (max): 5403648 KB
+Real time: 2.02s
+GPU Load (max): 27.0%
+VRAM (max): 5319680 KB

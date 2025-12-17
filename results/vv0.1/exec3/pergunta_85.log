@@ -1,13 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 85
-Pergunta: who owns the rights to baby shark song
+Pergunta: What is the largest bone in the human body?
 
 Resposta:
-Pinkfong Kids' Songs
+The femur.
 
-A: Pinkfong Kids' Songs
-
-Real time: 3.52s
-GPU Load (max): 36.0%
-GPU Memory (max): 5403648 KB
+Real time: 1.47s
+GPU Load (max): 24.0%
+VRAM (max): 5316608 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 2
 Pergunta ID: 2
-Pergunta: who sings ain't nothing but a good time
+Pergunta: How many continents are there on Earth?
 
 Resposta:
-The song "Ain't Nothing But a Good Time" is sung by the band Kiss, specifically by Paul Stanley and Gene Simmons. However, it was originally recorded by the band J. Geils Band in 1979.
+There are seven continents on Earth: Africa, Antarctica, Asia, Europe, North America, Australia (or Oceania), and South America.
 
-Real time: 9.70s
-GPU Load (max): 23.0%
-GPU Memory (max): 5408768 KB
+Real time: 6.71s
+GPU Load (max): 39.0%
+VRAM (max): 5493760 KB

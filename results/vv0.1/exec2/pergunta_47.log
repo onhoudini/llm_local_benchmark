@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 2
 Pergunta ID: 47
-Pergunta: what is the meaning of zhongguo renmin yinhang
+Pergunta: What is the capital city of Australia?
 
 Resposta:
-China People's Bank
+Canberra
 
-Real time: 1.77s
-GPU Load (max): 45.0%
-GPU Memory (max): 5404672 KB
+Real time: 1.34s
+GPU Load (max): 27.0%
+VRAM (max): 5321728 KB

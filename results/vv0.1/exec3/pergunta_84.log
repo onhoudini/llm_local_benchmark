@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 84
-Pergunta: when was the last time india won a gold medal in hockey at olympics
+Pergunta: What is the capital city of Switzerland?
 
 Resposta:
-1980
+The capital city of Switzerland is Bern.
 
-Real time: 1.92s
-GPU Load (max): 45.0%
-GPU Memory (max): 5403648 KB
+Real time: 2.17s
+GPU Load (max): 40.0%
+VRAM (max): 5315584 KB

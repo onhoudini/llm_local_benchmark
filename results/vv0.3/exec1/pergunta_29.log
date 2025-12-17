@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 1
 Pergunta ID: 29
-Pergunta: what is the song shine bright like a diamond about
+Pergunta: What is the capital city of Canada?
 
 Resposta:
-"Shine Bright Like a Diamond" is a song by American singer-songwriter CeeLo Green, released in 2011. The song is an empowerment anthem that encourages individuals to embrace their uniqueness and shine brightly, despite any obstacles or adversity they may face. The lyrics often reference the idea of being a diamond in the rough, suggesting that even though one might not appear perfect on the outside, there is great beauty and value within. The song has been interpreted as a call for self-acceptance and resilience.
+Ottawa
 
-Real time: 21.75s
-GPU Load (max): 41.0%
-GPU Memory (max): 5399552 KB
+Real time: 0.95s
+GPU Load (max): 33.0%
+VRAM (max): 5501952 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.3
 Execução: 1
 Pergunta ID: 85
-Pergunta: who owns the rights to baby shark song
+Pergunta: What is the largest bone in the human body?
 
 Resposta:
-The rights to the "Baby Shark" song are owned by Pinkfong, a South Korean education company. They created and popularized the song through an animated video that went viral on YouTube in 2016. However, the original melody is based on a traditional song called "Baa Baa Black Sheep."
+The largest bone in the human body is the femur, or thighbone. It's located in the thigh and runs from the hip to the knee. Despite being the longest bone in the body, it is not the heaviest due to its hollow structure.
 
-Real time: 13.13s
-GPU Load (max): 37.0%
-GPU Memory (max): 5399552 KB
+Real time: 10.26s
+GPU Load (max): 44.0%
+VRAM (max): 5494784 KB

@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 1
 Pergunta ID: 20
-Pergunta: who plays the medical examiner on hawaii five-o
+Pergunta: What is the fastest land animal?
 
 Resposta:
-Max Bergman
+The fastest land animal is the cheetah, which can reach speeds up to 70 miles per hour (112 kilometers per hour).
 
-Real time: 1.49s
-GPU Load (max): 32.0%
-GPU Memory (max): 5429248 KB
+Real time: 5.92s
+GPU Load (max): 39.0%
+VRAM (max): 5360640 KB

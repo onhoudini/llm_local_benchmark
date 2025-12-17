@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 97
-Pergunta: who sings a white sport coat and a pink carnation
+Pergunta: How many bits are in one byte?
 
 Resposta:
-Frank Sinatra
+There are 8 bits in one byte.
 
-Real time: 1.35s
-GPU Load (max): 37.0%
-GPU Memory (max): 5403648 KB
+Real time: 2.31s
+GPU Load (max): 27.0%
+VRAM (max): 5258240 KB

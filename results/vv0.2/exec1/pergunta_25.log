@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 1
 Pergunta ID: 25
-Pergunta: who makes the most tires in the world
+Pergunta: Which planet is closest to the Sun?
 
 Resposta:
-The company that produces the most tires in the world is Michelin, a French tire manufacturing company. Michelin is known for its wide range of tire products and has been a leader in the industry for many years. They produce tires for various applications, including cars, trucks, buses, motorcycles, and aircraft. According to Statista, Michelin produced approximately 71 million tires in 2020, making it the largest tire manufacturer in terms of production volume. Other major tire manufacturers include Bridgestone, Goodyear Tire & Rubber Company, and Continental AG.
+The planet that is closest to the Sun is Mercury.
 
-Real time: 20.83s
-GPU Load (max): 41.0%
-GPU Memory (max): 5399552 KB
+Real time: 3.08s
+GPU Load (max): 33.0%
+VRAM (max): 5536768 KB

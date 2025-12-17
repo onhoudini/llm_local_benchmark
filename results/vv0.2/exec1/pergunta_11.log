@@ -1,11 +1,11 @@
 Modelo: mistral_v0.2
 Execução: 1
 Pergunta ID: 11
-Pergunta: what color is the president of south koreas house
+Pergunta: What is the capital city of Japan?
 
 Resposta:
-The President of South Korea resides in a building called the "Blue House" (Cheong Wa Dae in Korean). However, the name "Blue House" does not necessarily mean that the entire building is blue. The term "blue" comes from the fact that the main building was originally painted blue during the Joseon Dynasty to distinguish it from other government buildings. Currently, the Blue House is predominantly colored in a light brown hue.
+The capital city of Japan is Tokyo. Tokyo is not only the political hub of Japan but also its economic and cultural center. It's one of the 47 prefectures in Japan and is located on the eastern coast of Honshu, the largest island in Japan.
 
-Real time: 15.89s
-GPU Load (max): 36.0%
-GPU Memory (max): 5404672 KB
+Real time: 11.63s
+GPU Load (max): 35.0%
+VRAM (max): 5540864 KB

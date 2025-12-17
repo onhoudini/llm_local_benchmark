@@ -1,11 +1,11 @@
 Modelo: mistral_v0.1
 Execução: 3
 Pergunta ID: 54
-Pergunta: what is the front of your lower leg called
+Pergunta: What is the capital city of Argentina?
 
 Resposta:
-shin
+The capital city of Argentina is Buenos Aires.
 
-Real time: 1.07s
-GPU Load (max): 36.0%
-GPU Memory (max): 5403648 KB
+Real time: 2.31s
+GPU Load (max): 32.0%
+VRAM (max): 5316608 KB

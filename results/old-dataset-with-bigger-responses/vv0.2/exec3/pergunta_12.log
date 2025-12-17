@@ -1,0 +1,11 @@
+Modelo: mistral_v0.2
+Execução: 3
+Pergunta ID: 12
+Pergunta: who is the security general of the un
+
+Resposta:
+The United Nations Secretary-General is currently António Guterres. He assumed office on January 1, 2017. The Secretary-General is the chief administrative officer of the UN and serves as the spokesperson for the organization. The role includes overseeing the day-to-day work of the UN's global civil service, leading diplomatic efforts to resolve international conflicts, and advocating for various causes related to sustainable development, human rights, and peacekeeping.
+
+Real time: 18.13s
+GPU Load (max): 37.0%
+VRAM (max): 5538816 KB
