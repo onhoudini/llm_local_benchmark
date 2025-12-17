@@ -3,7 +3,7 @@ import csv
 import statistics
 from pathlib import Path
 
-DATASET_PATH = Path.home() / "Documentos/pesquisa/ollama-test/input/NQ-open.efficientqa.dev.1.1.sample.jsonl"
+DATASET_PATH = Path.home() / "Documentos/pesquisa/ollama-test/input/QA.jsonl"
 RESULTS_DIR = Path.home() / "Documentos/pesquisa/ollama-test/results"
 
 
@@ -20,10 +20,12 @@ def check_answer_match(generated, expected_list):
     if not generated or not expected_list:
         return False
     
-    generated_lower = generated.lower()
+    generated_lower = generated.lower().strip()
     
     for expected in expected_list:
-        if expected in generated_lower:
+        expected_lower = expected.lower().strip()
+        # Verificação exata ou substring
+        if expected_lower == generated_lower or expected_lower in generated_lower:
             return True
     
     return False
@@ -89,7 +91,7 @@ def generate_report(model_name, results, metrics):
     report.append(f"FACTUALIDADE")
     report.append(f"-" * 40)
     report.append(f"Acurácia: {accuracy:.2f}% ({matches}/{len(results)})")
-    report.append(f"Perguntas com acurácia: {', '.join(matched_ids)}")
+    report.append(f"Perguntas com acurácia: {', '.join(matched_ids) if matched_ids else 'Nenhuma'}")
     report.append("")
     
     report.append(f"DESEMPENHO - TEMPO")
@@ -135,9 +137,10 @@ def main():
         model_name = model_dir.name
         
         for exec_dir in sorted(model_dir.glob("exec*")):
-            results, metrics = analyze_model_execution(exec_dir) or (None, None)
+            result = analyze_model_execution(exec_dir)
             
-            if results:
+            if result:
+                results, metrics = result
                 report = generate_report(f"{model_name} - {exec_dir.name}", results, metrics)
                 all_reports.append(report)
                 print(report)
@@ -148,7 +151,6 @@ def main():
     
     print(f"\n{'='*80}")
     print(f"Relatório salvo em: {report_path}")
-    print(f"{'='*80}")
 
 
 if __name__ == "__main__":
