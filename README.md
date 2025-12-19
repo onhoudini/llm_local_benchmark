@@ -18,8 +18,15 @@ Projeto para benchmarking de modelos no Ollama usando um dataset de 100 pergunta
 
 ## Setup
 
-1. Instale Ollama: `curl -fsSL https://ollama.ai/install.sh | sh`
-2. Baixe o modelo na versão e quantização adequada
+1. Baixe e instale o Docker
+2. Execute o Dockerfile com o comando
+```
+docker build -t ollama-benchmark .
+```
+3. Execute o comando run do Docker
+```
+docker run --rm -e BENCHMARK_INPUT_DIR=/data/input -e BENCHMARK_RESULTS_DIR=/data/results -v "$(pwd)/input:/data/input" -v "$(pwd)/results:/data/results" ollama-benchmark
+```
 
 ## Dependências Atuais
-- Ollama
+- Docker

@@ -3,8 +3,8 @@ import csv
 import statistics
 from pathlib import Path
 
-DATASET_PATH = Path.home() / "Documentos/pesquisa/ollama-test/input/QA.jsonl"
-RESULTS_DIR = Path.home() / "Documentos/pesquisa/ollama-test/results"
+DATASET_PATH = Path.home() / "input/QA.jsonl"
+RESULTS_DIR = Path.home() / "results"
 
 
 def load_expected_answers():
